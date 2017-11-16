@@ -1,0 +1,4099 @@
+{
+  "items": [
+    {
+      "text": "GitHub Repo",
+      "url": "https://github.com/vuejs/vue",
+      "star": 73853
+    },
+    {
+      "text": "Release Notes",
+      "url": "https://github.com/vuejs/vue/releases",
+      "star": 73853
+    },
+    {
+      "text": "Vue.js資料まとめ(for japanese)",
+      "url": "https://gist.github.com/hashrock/f575928d0e109ace9ad0",
+      "star": 118
+    },
+    {
+      "text": "vue-requests",
+      "url": "https://github.com/vuejs/vue-requests",
+      "star": 58
+    },
+    {
+      "text": "Vue.js TodoMVC",
+      "url": "https://github.com/vuejs/vue/tree/dev/examples/todomvc",
+      "star": 73853
+    },
+    {
+      "text": "CoffeeScript Version",
+      "url": "https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js",
+      "star": 14
+    },
+    {
+      "text": "Vue.js HackerNews Clone",
+      "url": "https://github.com/vuejs/vue-hackernews",
+      "star": 2313
+    },
+    {
+      "text": "Vue.js 2.0 HackerNews Clone",
+      "url": "https://github.com/vuejs/vue-hackernews-2.0",
+      "star": 6210
+    },
+    {
+      "text": "讲解Vue.js 官网 中文-含代码、百度云、youtube",
+      "url": "https://github.com/bhnddowinf/vuejs-learn",
+      "star": 1544
+    },
+    {
+      "text": "Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource",
+      "url": "https://github.com/jayway/vue-js-workshop",
+      "star": 235
+    },
+    {
+      "text": "讲解Vue.js 2 官网 中文-含代码、百度云、youtube",
+      "url": "https://github.com/bhnddowinf/vuejs2-learn",
+      "star": 1055
+    },
+    {
+      "text": "Build vue-hackernews-2.0 from Scratch",
+      "url": "https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch",
+      "star": 62
+    },
+    {
+      "text": "vue 架构中的 Watcher",
+      "url": "https://github.com/dengwanc/dengwanc.github.io/issues/11",
+      "star": 3
+    },
+    {
+      "text": "Intro to Vue, repo for Frontend Masters Course",
+      "url": "https://github.com/sdras/intro-to-vue",
+      "star": 887
+    },
+    {
+      "text": "Node Webkit + Vue example",
+      "url": "https://github.com/brandonjpierce/node-webkit-boilerplate",
+      "star": 42
+    },
+    {
+      "text": "Vue Samples",
+      "url": "https://github.com/superlloyd/VueSamples",
+      "star": 31
+    },
+    {
+      "text": "HackerNews clone with vue.js + vue-router",
+      "url": "https://github.com/kazupon/vue-router-hackernews",
+      "star": 16
+    },
+    {
+      "text": "Electron + Vue example",
+      "url": "https://github.com/bradstewart/electron-boilerplate-vue",
+      "star": 631
+    },
+    {
+      "text": "Single page application example (Vue + Voie)",
+      "url": "https://github.com/inca/voie-example",
+      "star": 55
+    },
+    {
+      "text": "Begin - Task Manager SPA written in Vue + Lumen",
+      "url": "https://github.com/rajabishek/begin",
+      "star": 58
+    },
+    {
+      "text": "Vue Mini Shop",
+      "url": "https://github.com/BosNaufal/vue-mini-shop",
+      "star": 153
+    },
+    {
+      "text": "Vue SoundCloud",
+      "url": "https://github.com/mul14/vue-soundcloud",
+      "star": 43
+    },
+    {
+      "text": "Feature Requests (Laravel + Vue Combo)",
+      "url": "https://github.com/haydenbbickerton/feature-requests-app",
+      "star": 13
+    },
+    {
+      "text": "Vue Cookbook (Vue1.0 + express)",
+      "url": "https://github.com/yjj5855/node-vue-server-webpack",
+      "star": 268
+    },
+    {
+      "text": "Strong Together",
+      "url": "https://github.com/websemantics/strong-together",
+      "star": 74
+    },
+    {
+      "text": "vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe",
+      "url": "https://github.com/sjerrys/vuetest",
+      "star": 17
+    },
+    {
+      "text": "vue-shopping",
+      "url": "https://github.com/andylei18/vue-shopping",
+      "star": 466
+    },
+    {
+      "text": "Vue-cnodejs,060",
+      "url": "https://github.com/shinygang/Vue-cnodejs",
+      "star": 2729
+    },
+    {
+      "text": "vue-zhihu-daily",
+      "url": "https://github.com/hilongjw/vue-zhihu-daily",
+      "star": 1116
+    },
+    {
+      "text": "jwt-example",
+      "url": "https://github.com/PetervMeijgaard/jwt-example",
+      "star": 30
+    },
+    {
+      "text": "VueChess",
+      "url": "https://github.com/gustaYo/vue-chess",
+      "star": 148
+    },
+    {
+      "text": "Ngexplorer-vuejs-client",
+      "url": "https://github.com/gustaYo/ngexplorer-vuejs-client",
+      "star": 1
+    },
+    {
+      "text": "Ngexplorer",
+      "url": "https://github.com/gustaYo/ngexplorer-MEAN",
+      "star": 2
+    },
+    {
+      "text": "Vue Simple PWA",
+      "url": "https://github.com/BosNaufal/vue-simple-pwa",
+      "star": 134
+    },
+    {
+      "text": "Tour of Heroes (Vue 2.0)",
+      "url": "https://github.com/aweber1/tour-of-heroes-vue2",
+      "star": 25
+    },
+    {
+      "text": "revue",
+      "url": "https://github.com/revue/revue",
+      "star": 530
+    },
+    {
+      "text": "vue-router",
+      "url": "https://github.com/vuejs/vue-router",
+      "star": 7754
+    },
+    {
+      "text": "Airbnb eslint",
+      "url": "https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base",
+      "star": 61692
+    },
+    {
+      "text": "vue-table-pagination",
+      "url": "https://github.com/echoVic/vue-table-pagination",
+      "star": 2
+    },
+    {
+      "text": "Feathers and Vue 2.0 Blog Admin Demo",
+      "url": "https://github.com/delay/feathers-vue-blog-admin-demo",
+      "star": 54
+    },
+    {
+      "text": "vue-zhihudaily-2.0",
+      "url": "https://github.com/cs1707/vue-zhihudaily-2.0",
+      "star": 104
+    },
+    {
+      "text": "vue-demo-todolist",
+      "url": "https://github.com/fishenal/Todos_Vuejs",
+      "star": 41
+    },
+    {
+      "text": "vue-AdminLte",
+      "url": "https://github.com/liujians/vue-adminLte-vue-router",
+      "star": 301
+    },
+    {
+      "text": "Vue(2.0) + Node.js: A blog content manage system (CMS)",
+      "url": "https://github.com/ycwalker/CMS-of-Blog",
+      "star": 645
+    },
+    {
+      "text": "ngexplorer-quasar",
+      "url": "https://github.com/gustaYo/ngexplorer-quasar",
+      "star": 3
+    },
+    {
+      "text": "Ngexplorer",
+      "url": "https://github.com/gustaYo/ngexplorer-MEAN",
+      "star": 2
+    },
+    {
+      "text": "quasar framework",
+      "url": "https://github.com/rstoenescu/quasar-framework",
+      "star": 4077
+    },
+    {
+      "text": "zhihu-daily-vue",
+      "url": "https://github.com/moonou/zhihu-daily-vue",
+      "star": 24
+    },
+    {
+      "text": "loopback-vue",
+      "url": "https://github.com/qxl1231/generator-loopback-vue",
+      "star": 139
+    },
+    {
+      "text": "vue-s3-dropzone",
+      "url": "https://github.com/kfei/vue-s3-dropzone",
+      "star": 215
+    },
+    {
+      "text": "easy-vue",
+      "url": "https://github.com/TIGERB/easy-vue",
+      "star": 597
+    },
+    {
+      "text": "Vuex Events Messaging Demo",
+      "url": "https://github.com/metricloop/vuex-events-messaging-demo",
+      "star": 3
+    },
+    {
+      "text": "vue-memo",
+      "url": "https://github.com/akifo/vue-memo",
+      "star": 67
+    },
+    {
+      "text": "Resume Vue",
+      "url": "https://github.com/ChangJoo-Park/Resume-Vue",
+      "star": 12
+    },
+    {
+      "text": "App example with JWT Authentication",
+      "url": "https://github.com/Angarsk8/phoenix_vuejs_authentication_example",
+      "star": 48
+    },
+    {
+      "text": "Sample CRUD app with router in Vue 2.0",
+      "url": "https://github.com/shershen08/vue.js-v2-crud-application",
+      "star": 37
+    },
+    {
+      "text": "ASP.NET Core Vue.js server-side rendering sample",
+      "url": "https://github.com/mgyongyosi/VuejsSSRSample",
+      "star": 61
+    },
+    {
+      "text": "vuefire-quickstart",
+      "url": "https://github.com/sejr/vuefire-quickstart",
+      "star": 42
+    },
+    {
+      "text": "hello-vue-django Vue.js and Django integration starter project with hot code reload",
+      "url": "https://github.com/rokups/hello-vue-django",
+      "star": 242
+    },
+    {
+      "text": "Real Time Social News App",
+      "url": "https://github.com/Angarsk8/loopa-news",
+      "star": 188
+    },
+    {
+      "text": "vue-calculator",
+      "url": "https://github.com/CaiYiLiang/simply-calculator-vuejs",
+      "star": 35
+    },
+    {
+      "text": "Wikipedia-viewer",
+      "url": "https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs",
+      "star": 14
+    },
+    {
+      "text": "vue2.x-douban",
+      "url": "https://github.com/superman66/vue2.x-douban",
+      "star": 520
+    },
+    {
+      "text": "vue-laravel-example",
+      "url": "https://github.com/jcc/vue-laravel-example",
+      "star": 139
+    },
+    {
+      "text": "vue-foundation",
+      "url": "https://github.com/hal0gen/vue-foundation",
+      "star": 116
+    },
+    {
+      "text": "Zurb Foundation",
+      "url": "https://github.com/zurb/foundation-sites",
+      "star": 26632
+    },
+    {
+      "text": "aspnetcore-Vue-starter",
+      "url": "https://github.com/MarkPieszak/aspnetcore-Vue-starter",
+      "star": 258
+    },
+    {
+      "text": "vue-reddit-app",
+      "url": "https://github.com/yujiahaol68/reddit-app",
+      "star": 30
+    },
+    {
+      "text": "vue-music-qq",
+      "url": "https://github.com/pluto1114/vue-music-qq",
+      "star": 42
+    },
+    {
+      "text": "NavigationTab with Vue-Redux and Plain VueJSX",
+      "url": "https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab",
+      "star": 9
+    },
+    {
+      "text": "vuejs-d3",
+      "url": "https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3",
+      "star": 65
+    },
+    {
+      "text": "vue-twitter-client",
+      "url": "https://github.com/YuheiNakasaka/vue-twitter-client",
+      "star": 71
+    },
+    {
+      "text": "Douban",
+      "url": "https://github.com/jeneser/douban",
+      "star": 1046
+    },
+    {
+      "text": "Storyblok vuejs-boilerplate",
+      "url": "https://github.com/storyblok/vuejs-boilerplate",
+      "star": 8
+    },
+    {
+      "text": "Vuexpresso",
+      "url": "https://github.com/Ethaan/vuexpresso",
+      "star": 25
+    },
+    {
+      "text": "Vue.js with Sails.js backend example project",
+      "url": "https://github.com/ndabAP/Vue.js-with-Sails.js-backend-example-project",
+      "star": 60
+    },
+    {
+      "text": "Vue.js & Pyramid web framework app",
+      "url": "https://github.com/eddyekofo94/pyramidVue.git",
+      "star": 9
+    },
+    {
+      "text": "vue-feathers-chat",
+      "url": "https://github.com/ErickPetru/vue-feathers-chat",
+      "star": 17
+    },
+    {
+      "text": "vue-xplan",
+      "url": "https://github.com/JackGit/xplan/",
+      "star": 64
+    },
+    {
+      "text": "vueSocketChatRoom",
+      "url": "https://github.com/Chanran/vueSocketChatroom",
+      "star": 15
+    },
+    {
+      "text": "MyDiary-Vue",
+      "url": "https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md",
+      "star": 44
+    },
+    {
+      "text": "todo-mvc-webpack",
+      "url": "https://github.com/voluntadpear/todomvc-vue-webpack",
+      "star": 2
+    },
+    {
+      "text": "Chess Storybook Example",
+      "url": "https://github.com/gustaYo/vue-chess-storybook",
+      "star": 6
+    },
+    {
+      "text": "Vue Weather Notifier",
+      "url": "https://github.com/sdras/vue-weather-notifier",
+      "star": 124
+    },
+    {
+      "text": "Nuxt Type",
+      "url": "https://github.com/sdras/nuxt-type",
+      "star": 328
+    },
+    {
+      "text": "VueBlog",
+      "url": "https://github.com/wmui/vueblog",
+      "star": 294
+    },
+    {
+      "text": "Cinemateka",
+      "url": "https://github.com/Piterden/cinemateka",
+      "star": 4
+    },
+    {
+      "text": "vue-2.x-boilerplate",
+      "url": "https://github.com/the6thm0nth/vue-2.x-boilerplate",
+      "star": 13
+    },
+    {
+      "text": "vue-minesweeper",
+      "url": "https://github.com/rhapsodyn/vue-minesweeper",
+      "star": 1
+    },
+    {
+      "text": "X-Flowchart-Vue",
+      "url": "https://github.com/OXOYO/X-Flowchart-Vue",
+      "star": 18
+    },
+    {
+      "text": "koa-vue-notes-web",
+      "url": "https://github.com/johndatserakis/koa-vue-notes-web",
+      "star": 53
+    },
+    {
+      "text": "Vuejs Shopping Cart",
+      "url": "https://github.com/ittus/vuejs-firebase-shopping-cart",
+      "star": 58
+    },
+    {
+      "text": "PokedexVueJs",
+      "url": "https://github.com/rchung95/PokedexVueJs",
+      "star": 9
+    },
+    {
+      "text": "vuefire-auth",
+      "url": "https://github.com/aofdev/vuefire-auth",
+      "star": 20
+    },
+    {
+      "text": "vuefire-realtimedatabase",
+      "url": "https://github.com/aofdev/vuefire-realtimedatabase",
+      "star": 12
+    },
+    {
+      "text": "vuefire-storage",
+      "url": "https://github.com/aofdev/vuefire-storage",
+      "star": 11
+    },
+    {
+      "text": "Vue2-PWA-Blog",
+      "url": "https://github.com/deepak-singh/vue-blog-pwa",
+      "star": 4
+    },
+    {
+      "text": "vue-firebase-auth-vuex",
+      "url": "https://github.com/aofdev/vue-firebase-auth-vuex",
+      "star": 14
+    },
+    {
+      "text": "vue-chart-stater-kit",
+      "url": "https://github.com/joshua1988/vue-chart-starter-kit",
+      "star": 8
+    },
+    {
+      "text": "PageKit",
+      "url": "https://github.com/pagekit/pagekit",
+      "star": 4513
+    },
+    {
+      "text": "npmcharts.com",
+      "url": "https://github.com/cheapsteak/npmcharts.com",
+      "star": 47
+    },
+    {
+      "text": "Koel",
+      "url": "https://github.com/phanan/koel",
+      "star": 8400
+    },
+    {
+      "text": "RSS Reader",
+      "url": "https://github.com/mrgodhani/rss-reader",
+      "star": 437
+    },
+    {
+      "text": "Gokotta",
+      "url": "https://github.com/Zhangdroid/Gokotta",
+      "star": 419
+    },
+    {
+      "text": "CoPilot",
+      "url": "https://github.com/misterGF/CoPilot",
+      "star": 1653
+    },
+    {
+      "text": "Retrospectify",
+      "url": "https://github.com/pepf/retrospectify",
+      "star": 28
+    },
+    {
+      "text": "jade-press",
+      "url": "https://github.com/jade-press/jade-press",
+      "star": 28
+    },
+    {
+      "text": "astralapp",
+      "url": "https://github.com/astralapp/astral",
+      "star": 815
+    },
+    {
+      "text": "EME",
+      "url": "https://github.com/egoist/eme",
+      "star": 1636
+    },
+    {
+      "text": "Github-explorer",
+      "url": "https://github.com/SidKwok/github-explorer",
+      "star": 76
+    },
+    {
+      "text": "Hotel",
+      "url": "https://github.com/typicode/hotel",
+      "star": 6833
+    },
+    {
+      "text": "Surfbird",
+      "url": "https://github.com/surfbirdapp/surfbird",
+      "star": 128
+    },
+    {
+      "text": "Approach0",
+      "url": "https://github.com/approach0/search-engine",
+      "star": 139
+    },
+    {
+      "text": "Flox",
+      "url": "https://github.com/devfake/flox",
+      "star": 315
+    },
+    {
+      "text": "JavaScript Guessing Game",
+      "url": "https://github.com/samiheikki/javascript-guessing-game",
+      "star": 310
+    },
+    {
+      "text": "vue-ghpages-blog",
+      "url": "https://github.com/viko16/vue-ghpages-blog",
+      "star": 303
+    },
+    {
+      "text": "Vuedo",
+      "url": "https://github.com/Vuedo/vuedo",
+      "star": 1546
+    },
+    {
+      "text": "vue-music163",
+      "url": "https://github.com/pluto1114/vue-music163",
+      "star": 59
+    },
+    {
+      "text": "Tomato5",
+      "url": "https://github.com/zhangxin840/tomato5",
+      "star": 160
+    },
+    {
+      "text": "Web Learn",
+      "url": "https://github.com/freearhey/web-learn",
+      "star": 56
+    },
+    {
+      "text": "ExcelJSON",
+      "url": "https://github.com/palerdot/exceljson",
+      "star": 36
+    },
+    {
+      "text": "Materialize-blog",
+      "url": "https://github.com/forehalo/materialize-blog",
+      "star": 196
+    },
+    {
+      "text": "VueCompomnentGenerator",
+      "url": "https://github.com/ChangJoo-Park/vue-component-generator",
+      "star": 58
+    },
+    {
+      "text": "SDR News",
+      "url": "https://github.com/super-dev/SDR-News",
+      "star": 18
+    },
+    {
+      "text": "PJ Blog",
+      "url": "https://github.com/jcc/blog",
+      "star": 1427
+    },
+    {
+      "text": "Lulumi-browser",
+      "url": "https://github.com/qazbnm456/lulumi-browser",
+      "star": 86
+    },
+    {
+      "text": "vue-wordpress-pwa",
+      "url": "https://github.com/bstavroulakis/vue-wordpress-pwa",
+      "star": 276
+    },
+    {
+      "text": "OpenAPI 3 viewer",
+      "url": "https://github.com/koumoul-dev/openapi-viewer",
+      "star": 27
+    },
+    {
+      "text": "Stacer",
+      "url": "https://github.com/oguzhaninan/Stacer",
+      "star": 2648
+    },
+    {
+      "text": "Distrochooser.de",
+      "url": "https://github.com/cmllr/distrochooser",
+      "star": 19
+    },
+    {
+      "text": "Buka",
+      "url": "https://github.com/oguzhaninan/Buka",
+      "star": 283
+    },
+    {
+      "text": "Docute",
+      "url": "https://github.com/egoist/docute",
+      "star": 1350
+    },
+    {
+      "text": "pm86",
+      "url": "https://github.com/ericjjj/pm86",
+      "star": 86
+    },
+    {
+      "text": "vms",
+      "url": "https://github.com/ericjjj/vms",
+      "star": 746
+    },
+    {
+      "text": "nativescript-vue",
+      "url": "https://github.com/rigor789/nativescript-vue",
+      "star": 975
+    },
+    {
+      "text": "piper",
+      "url": "https://github.com/fireyy/piper",
+      "star": 70
+    },
+    {
+      "text": "mmf-blog-vue2",
+      "url": "https://github.com/lincenying/mmf-blog-vue2",
+      "star": 145
+    },
+    {
+      "text": "Media Manager",
+      "url": "https://github.com/iutbay/mm",
+      "star": 57
+    },
+    {
+      "text": "dyu/bookmarks",
+      "url": "https://github.com/dyu/bookmarks",
+      "star": 28
+    },
+    {
+      "text": "JSON Schema Editor",
+      "url": "https://github.com/tangram-js/json-schema-editor",
+      "star": 43
+    },
+    {
+      "text": "npm-stats",
+      "url": "https://github.com/apertureless/npm-stats",
+      "star": 42
+    },
+    {
+      "text": "vue2-admin-lte",
+      "url": "https://github.com/devjin0617/vue2-admin-lte",
+      "star": 358
+    },
+    {
+      "text": "Dockeron",
+      "url": "https://github.com/dockeron/dockeron",
+      "star": 154
+    },
+    {
+      "text": "Flamme",
+      "url": "https://github.com/alicin/flamme",
+      "star": 95
+    },
+    {
+      "text": "Goldfish",
+      "url": "https://github.com/Caiyeon/goldfish",
+      "star": 1230
+    },
+    {
+      "text": "Adminify",
+      "url": "https://github.com/wxs77577/adminify",
+      "star": 251
+    },
+    {
+      "text": "promptie",
+      "url": "https://github.com/alicin/promptie",
+      "star": 36
+    },
+    {
+      "text": "Hare",
+      "url": "https://github.com/clarkdo/hare",
+      "star": 69
+    },
+    {
+      "text": "Paper-Dashboard",
+      "url": "https://github.com/cristijora/vue-paper-dashboard",
+      "star": 850
+    },
+    {
+      "text": "AdminLTE-VueJS2",
+      "url": "https://github.com/otezz/AdminLTE-VueJS2",
+      "star": 43
+    },
+    {
+      "text": "Material Dashboard",
+      "url": "https://github.com/lucduong/vue-material-dashboard",
+      "star": 73
+    },
+    {
+      "text": "Explore-Github",
+      "url": "https://github.com/mazipan/explore-github",
+      "star": 28
+    },
+    {
+      "text": "CoreUI",
+      "url": "https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template",
+      "star": 4950
+    },
+    {
+      "text": "ChuckNorris",
+      "url": "https://github.com/mazipan/chucknorris",
+      "star": 8
+    },
+    {
+      "text": "LeafPlayer",
+      "url": "https://github.com/paulschwoerer/leafplayer",
+      "star": 30
+    },
+    {
+      "text": "JSON Editor",
+      "url": "https://github.com/tangram-js/json-editor",
+      "star": 40
+    },
+    {
+      "text": "Voten",
+      "url": "https://github.com/voten-co/voten",
+      "star": 694
+    },
+    {
+      "text": "News Weaver",
+      "url": "https://github.com/Rud156/News-Weaver",
+      "star": 5
+    },
+    {
+      "text": "Astrum",
+      "url": "https://github.com/NoDivide/astrum",
+      "star": 1257
+    },
+    {
+      "text": "vue2-pwa-vision",
+      "url": "https://github.com/aofdev/vue-pwa-vision",
+      "star": 8
+    },
+    {
+      "text": "vue2-pwa-rekognition",
+      "url": "https://github.com/aofdev/vue-pwa-rekognition",
+      "star": 10
+    },
+    {
+      "text": "AmmoBin.ca",
+      "url": "https://github.com/ammobinDOTca/ammobin-client",
+      "star": 4
+    },
+    {
+      "text": "SPA-asp.net-api-vuejs-",
+      "url": "https://github.com/mubaidr/SPA-asp.net-api-vuejs-",
+      "star": 30
+    },
+    {
+      "text": "Book-Trading-Club",
+      "url": "https://github.com/mubaidr/Book-Trading-Club",
+      "star": 1
+    },
+    {
+      "text": "vuejs-extension-pack vscode",
+      "url": "https://github.com/mubaidr/vuejs-extension-pack",
+      "star": 6
+    },
+    {
+      "text": "vue2-text-swimlane",
+      "url": "https://github.com/mubaidr/vue-swimlane",
+      "star": 5
+    },
+    {
+      "text": "Wiki.js",
+      "url": "https://github.com/Requarks/wiki",
+      "star": 948
+    },
+    {
+      "text": "vue-pwa-speech",
+      "url": "https://github.com/aofdev/vue-pwa-speech",
+      "star": 16
+    },
+    {
+      "text": "vue-speech-streaming",
+      "url": "https://github.com/aofdev/vue-speech-streaming",
+      "star": 1
+    },
+    {
+      "text": "My Animation List",
+      "url": "https://github.com/limichange/my-animation-list",
+      "star": 5
+    },
+    {
+      "text": "vue-input-streaming",
+      "url": "https://github.com/aofdev/vue-input-streaming",
+      "star": 4
+    },
+    {
+      "text": "TidyTab",
+      "url": "https://github.com/eggplanetio/tidytab",
+      "star": 29
+    },
+    {
+      "text": "peregrine-cms",
+      "url": "https://github.com/headwirecom/peregrine-cms",
+      "star": 8
+    },
+    {
+      "text": "concept-to-clinic",
+      "url": "https://github.com/concept-to-clinic/concept-to-clinic",
+      "star": 241
+    },
+    {
+      "text": "grid-awesome",
+      "url": "https://github.com/louisbourque/grid-awesome",
+      "star": 1
+    },
+    {
+      "text": "Light Bootstrap Dashboard",
+      "url": "https://github.com/cristijora/vue-light-bootstrap-dashboard",
+      "star": 53
+    },
+    {
+      "text": "Hubaga",
+      "url": "https://github.com/picocodes/hubaga",
+      "star": 4
+    },
+    {
+      "text": "Reddit News",
+      "url": "https://github.com/Mati365/reddit-news",
+      "star": 38
+    },
+    {
+      "text": "Dermail",
+      "url": "https://github.com/zllovesuki/dermail-webmail",
+      "star": 20
+    },
+    {
+      "text": "SlugSurvival",
+      "url": "https://github.com/zllovesuki/slugsurvival",
+      "star": 7
+    },
+    {
+      "text": "GitRelease",
+      "url": "https://github.com/ChangJoo-Park/gitrelease-app",
+      "star": 45
+    },
+    {
+      "text": "蒜瓣",
+      "url": "https://github.com/JasonBai007/suanban",
+      "star": 23
+    },
+    {
+      "text": "Open Source on GitHub",
+      "url": "https://github.com/KDCinfo/guess-right",
+      "star": 0
+    },
+    {
+      "text": "mmf-blog-vue2-ssr",
+      "url": "https://github.com/lincenying/mmf-blog-vue2-ssr",
+      "star": 107
+    },
+    {
+      "text": "n2ex",
+      "url": "https://github.com/OrangeXC/n2ex",
+      "star": 74
+    },
+    {
+      "text": "Ripplectron",
+      "url": "https://github.com/devjin0617/ripplectron",
+      "star": 26
+    },
+    {
+      "text": "Todoist Tribute",
+      "url": "https://github.com/rohitpaulk/todoist-tribute/",
+      "star": 37
+    },
+    {
+      "text": "brain bits",
+      "url": "https://github.com/dashersw/brain-bits",
+      "star": 42
+    },
+    {
+      "text": "CodeDependencyScanner",
+      "url": "https://github.com/NeutroniumCore/CodeDependencyScanner/",
+      "star": 0
+    },
+    {
+      "text": "Vuethwallet",
+      "url": "https://github.com/sc0vu/vuethwallet",
+      "star": 2
+    },
+    {
+      "text": "vuetable-2",
+      "url": "https://github.com/ratiw/vuetable-2",
+      "star": 757
+    },
+    {
+      "text": "vue-tables-2",
+      "url": "https://github.com/matfish2/vue-tables-2",
+      "star": 465
+    },
+    {
+      "text": "vue-datasource",
+      "url": "https://github.com/coderdiaz/vue-datasource",
+      "star": 319
+    },
+    {
+      "text": "ag-grid-vue",
+      "url": "https://github.com/ceolter/ag-grid-vue",
+      "star": 48
+    },
+    {
+      "text": "vue-data-tables",
+      "url": "https://github.com/njleonzhang/vue-data-tables",
+      "star": 464
+    },
+    {
+      "text": "vue-floatThead",
+      "url": "https://github.com/tmlee/vue-floatThead",
+      "star": 10
+    },
+    {
+      "text": "vuetiful-datatable",
+      "url": "https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable",
+      "star": 295
+    },
+    {
+      "text": "vue-materialize-datatable",
+      "url": "https://github.com/MicroDroid/vue-materialize-datatable",
+      "star": 45
+    },
+    {
+      "text": "vue-good-table",
+      "url": "https://github.com/xaksis/vue-good-table",
+      "star": 159
+    },
+    {
+      "text": "vue-grid",
+      "url": "https://github.com/dzwillia/vue-grid",
+      "star": 38
+    },
+    {
+      "text": "vue-easytable",
+      "url": "https://github.com/huangshuwei/vue-easytable",
+      "star": 363
+    },
+    {
+      "text": "vue2-datatable-component",
+      "url": "https://github.com/OneWayTech/vue2-datatable",
+      "star": 153
+    },
+    {
+      "text": "vue-js-grid",
+      "url": "https://github.com/euvl/vue-js-grid",
+      "star": 162
+    },
+    {
+      "text": "vue-handsontable-official",
+      "url": "https://github.com/handsontable/vue-handsontable-official",
+      "star": 97
+    },
+    {
+      "text": "vue-notifications",
+      "url": "https://github.com/se-panfilov/vue-notifications",
+      "star": 159
+    },
+    {
+      "text": "vue-easy-toast",
+      "url": "https://github.com/noru/vue-easy-toast",
+      "star": 59
+    },
+    {
+      "text": "vue-toasted",
+      "url": "https://github.com/shakee93/vue-toasted",
+      "star": 316
+    },
+    {
+      "text": "vue-notifikation",
+      "url": "https://github.com/happyCoda/vue-notifikation",
+      "star": 3
+    },
+    {
+      "text": "vue-notification",
+      "url": "https://github.com/euvl/vue-notification",
+      "star": 286
+    },
+    {
+      "text": "vs-notify",
+      "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify",
+      "star": 80
+    },
+    {
+      "text": "vue2-notify",
+      "url": "https://github.com/websmurf/vue2-notify",
+      "star": 11
+    },
+    {
+      "text": "vue-notifyjs",
+      "url": "https://github.com/cristijora/vue-notifyjs",
+      "star": 78
+    },
+    {
+      "text": "vueup",
+      "url": "https://github.com/chryb/vueup",
+      "star": 53
+    },
+    {
+      "text": "vuex-flash",
+      "url": "https://github.com/ahmed-dinar/vuex-flash",
+      "star": 16
+    },
+    {
+      "text": "vue-snotify",
+      "url": "https://github.com/artemsky/vue-snotify",
+      "star": 108
+    },
+    {
+      "text": "vue-notify-me",
+      "url": "https://github.com/PygmySlowLoris/vue-notify-me",
+      "star": 63
+    },
+    {
+      "text": "vue-noty",
+      "url": "https://github.com/renoguyon/vuejs-noty",
+      "star": 38
+    },
+    {
+      "text": "vue-notice",
+      "url": "https://github.com/nikitamarcius/vue-notice",
+      "star": 25
+    },
+    {
+      "text": "vue-radial-progress",
+      "url": "https://github.com/wyzant-dev/vue-radial-progress",
+      "star": 116
+    },
+    {
+      "text": "vue-simple-spinner",
+      "url": "https://github.com/dzwillia/vue-simple-spinner",
+      "star": 170
+    },
+    {
+      "text": "vuex-loading",
+      "url": "https://github.com/f/vuex-loading",
+      "star": 233
+    },
+    {
+      "text": "vue-progress-path",
+      "url": "https://github.com/Akryum/vue-progress-path",
+      "star": 58
+    },
+    {
+      "text": "vue-blockui",
+      "url": "https://github.com/realdah/vue-blockui",
+      "star": 7
+    },
+    {
+      "text": "vue-progressbar",
+      "url": "https://github.com/hilongjw/vue-progressbar",
+      "star": 528
+    },
+    {
+      "text": "vue2-loading-bar",
+      "url": "https://github.com/BosNaufal/vue2-loading-bar",
+      "star": 171
+    },
+    {
+      "text": "vue-top-progress",
+      "url": "https://github.com/dalphyx/vue-top-progress",
+      "star": 85
+    },
+    {
+      "text": "vue-nprogress",
+      "url": "https://github.com/vue-bulma/nprogress",
+      "star": 81
+    },
+    {
+      "text": "vue-progress-button",
+      "url": "https://github.com/websmurf/vue-progress-button",
+      "star": 18
+    },
+    {
+      "text": "vue-simple-progress",
+      "url": "https://github.com/dzwillia/vue-simple-progress",
+      "star": 1
+    },
+    {
+      "text": "v-tooltip",
+      "url": "https://github.com/Akryum/vue-tooltip",
+      "star": 263
+    },
+    {
+      "text": "vue-popper-component",
+      "url": "https://github.com/antongorodezkiy/vue-popper-component",
+      "star": 26
+    },
+    {
+      "text": "vue-directive-tooltip",
+      "url": "https://github.com/hekigan/vue-directive-tooltip",
+      "star": 51
+    },
+    {
+      "text": "vue-popperjs",
+      "url": "https://github.com/RobinCK/vue-popper",
+      "star": 71
+    },
+    {
+      "text": "vuedals",
+      "url": "https://github.com/javisperez/vuedals",
+      "star": 36
+    },
+    {
+      "text": "sweet-modal-vue",
+      "url": "https://github.com/adeptoas/sweet-modal-vue",
+      "star": 285
+    },
+    {
+      "text": "vue-js-modal",
+      "url": "https://github.com/euvl/vue-js-modal",
+      "star": 613
+    },
+    {
+      "text": "vudal",
+      "url": "https://github.com/Egorvah/vudal",
+      "star": 16
+    },
+    {
+      "text": "vodal",
+      "url": "https://github.com/chenjiahan/vodal",
+      "star": 157
+    },
+    {
+      "text": "vue-image-lightbox",
+      "url": "https://github.com/pexea12/vue-image-lightbox",
+      "star": 43
+    },
+    {
+      "text": "vue2-simplert",
+      "url": "https://github.com/mazipan/vue2-simplert",
+      "star": 135
+    },
+    {
+      "text": "Vue-Semantic-Modal",
+      "url": "https://github.com/David-Desmaisons/Vue-Semantic-Modal",
+      "star": 30
+    },
+    {
+      "text": "v-img",
+      "url": "https://github.com/crowdbotics/v-img",
+      "star": 136
+    },
+    {
+      "text": "vue-dialog-drag",
+      "url": "https://github.com/emiliorizzo/vue-dialog-drag",
+      "star": 23
+    },
+    {
+      "text": "vue-ya-semantic-modal",
+      "url": "https://github.com/qgp9/vue-ya-semantic-modal",
+      "star": 9
+    },
+    {
+      "text": "vue-pure-lightbox",
+      "url": "https://github.com/DCzajkowski/vue-pure-lightbox",
+      "star": 14
+    },
+    {
+      "text": "v-viewer",
+      "url": "https://github.com/mirari/v-viewer",
+      "star": 42
+    },
+    {
+      "text": "viewer.js",
+      "url": "https://github.com/fengyuanchen/viewerjs",
+      "star": 2366
+    },
+    {
+      "text": "vue-messagebox",
+      "url": "https://github.com/zhangxiang958/vue-messageBox",
+      "star": 5
+    },
+    {
+      "text": "vuejs-dialog",
+      "url": "https://github.com/Godofbrowser/vuejs-dialog",
+      "star": 54
+    },
+    {
+      "text": "@hscmap/vue-window",
+      "url": "https://github.com/michitaro/vue-window",
+      "star": 49
+    },
+    {
+      "text": "vue-gallery",
+      "url": "https://github.com/RobinCK/vue-gallery",
+      "star": 43
+    },
+    {
+      "text": "vue-swal",
+      "url": "https://github.com/anteriovieira/vue-swal",
+      "star": 25
+    },
+    {
+      "text": "vue-modal-dialogs",
+      "url": "https://github.com/hjkcai/vue-modal-dialogs",
+      "star": 13
+    },
+    {
+      "text": "vue-parallax",
+      "url": "https://github.com/vue-comps/vue-parallax",
+      "star": 37
+    },
+    {
+      "text": "vue-parallaxy",
+      "url": "https://github.com/apertureless/vue-parallax",
+      "star": 152
+    },
+    {
+      "text": "vue-awesome",
+      "url": "https://github.com/Justineo/vue-awesome",
+      "star": 913
+    },
+    {
+      "text": "vue-icon-font",
+      "url": "https://github.com/ganl/vue-icon-font",
+      "star": 6
+    },
+    {
+      "text": "vue-ionicons",
+      "url": "https://github.com/mazipan/vue-ionicons",
+      "star": 4
+    },
+    {
+      "text": "vue-ico",
+      "url": "https://github.com/paulcollett/vue-ico",
+      "star": 6
+    },
+    {
+      "text": "vue-side-nav",
+      "url": "https://github.com/vue-comps/vue-side-nav",
+      "star": 44
+    },
+    {
+      "text": "vue-accordion",
+      "url": "https://github.com/zeratulmdq/vue-accordion",
+      "star": 69
+    },
+    {
+      "text": "vue-js-dropdown",
+      "url": "https://github.com/euvl/vue-js-dropdown",
+      "star": 113
+    },
+    {
+      "text": "vue-slideout",
+      "url": "https://github.com/vouill/vue-slideout",
+      "star": 44
+    },
+    {
+      "text": "slideout",
+      "url": "https://github.com/Mango/slideout",
+      "star": 6975
+    },
+    {
+      "text": "vue-quick-menu",
+      "url": "https://github.com/AshleyLv/vue-quick-menu",
+      "star": 31
+    },
+    {
+      "text": "@hscmap/vue-menu",
+      "url": "https://github.com/michitaro/vue-menu",
+      "star": 38
+    },
+    {
+      "text": "vue-easy-slider",
+      "url": "https://github.com/shhdgit/vue-easy-slider",
+      "star": 133
+    },
+    {
+      "text": "vue-l-carousel",
+      "url": "https://github.com/lsycxyj/vue-l-carousel",
+      "star": 25
+    },
+    {
+      "text": "vue-awesome-swiper",
+      "url": "https://github.com/surmon-china/vue-awesome-swiper",
+      "star": 1887
+    },
+    {
+      "text": "vue-lory",
+      "url": "https://github.com/vue-bulma/lory",
+      "star": 27
+    },
+    {
+      "text": "vue-slick",
+      "url": "https://github.com/staskjs/vue-slick",
+      "star": 156
+    },
+    {
+      "text": "vue-flickity",
+      "url": "https://github.com/drewjbartlett/vue-flickity",
+      "star": 130
+    },
+    {
+      "text": "vue-carousel-3d",
+      "url": "https://github.com/wlada/vue-carousel-3d",
+      "star": 266
+    },
+    {
+      "text": "vue-carousel",
+      "url": "https://github.com/SSENSE/vue-carousel",
+      "star": 234
+    },
+    {
+      "text": "vue-coverflow",
+      "url": "https://github.com/OrangeXC/vue-coverflow",
+      "star": 33
+    },
+    {
+      "text": "vue-agile",
+      "url": "https://github.com/lukaszflorczak/vue-agile",
+      "star": 171
+    },
+    {
+      "text": "vue-morris",
+      "url": "https://github.com/bbonnin/vue-morris",
+      "star": 81
+    },
+    {
+      "text": "vue-charts",
+      "url": "https://github.com/haydenbbickerton/vue-charts",
+      "star": 153
+    },
+    {
+      "text": "vue-chartjs",
+      "url": "https://github.com/apertureless/vue-chartjs",
+      "star": 1255
+    },
+    {
+      "text": "hchs-vue-charts",
+      "url": "https://github.com/hchstera/vue-charts",
+      "star": 242
+    },
+    {
+      "text": "vue-echarts",
+      "url": "https://github.com/Justineo/vue-echarts",
+      "star": 1096
+    },
+    {
+      "text": "vuetrend",
+      "url": "https://github.com/QingWei-Li/vue-trend",
+      "star": 475
+    },
+    {
+      "text": "vue-highcharts",
+      "url": "https://github.com/weizhenye/vue-highcharts",
+      "star": 195
+    },
+    {
+      "text": "vue-echarts-v3",
+      "url": "https://github.com/xlsdg/vue-echarts-v3",
+      "star": 546
+    },
+    {
+      "text": "vue-chartist",
+      "url": "https://github.com/lakb248/vue-chartist",
+      "star": 13
+    },
+    {
+      "text": "g2-vue",
+      "url": "https://github.com/fireyy/g2-vue",
+      "star": 21
+    },
+    {
+      "text": "vuebars",
+      "url": "https://github.com/DeviaVir/vue-bar",
+      "star": 69
+    },
+    {
+      "text": "vue-d3-network",
+      "url": "https://github.com/emiliorizzo/vue-d3-network",
+      "star": 67
+    },
+    {
+      "text": "vue2vis",
+      "url": "https://github.com/alexcode/vue2vis",
+      "star": 23
+    },
+    {
+      "text": "vue-c3",
+      "url": "https://github.com/chryb/vue-c3",
+      "star": 18
+    },
+    {
+      "text": "vue-d2b",
+      "url": "https://github.com/d2bjs/vue-d2b",
+      "star": 6
+    },
+    {
+      "text": "vue-timeago",
+      "url": "https://github.com/egoist/vue-timeago",
+      "star": 331
+    },
+    {
+      "text": "vue-moment-jalaali",
+      "url": "https://github.com/saman/vue-moment-jalaali",
+      "star": 35
+    },
+    {
+      "text": "vue-countdown-timer",
+      "url": "https://github.com/sagarkbhatt/vuejs-countdown-timer",
+      "star": 6
+    },
+    {
+      "text": "vue-fullcalendar",
+      "url": "https://github.com/Wanderxx/vue-fullcalendar",
+      "star": 481
+    },
+    {
+      "text": "vue-event-calendar",
+      "url": "https://github.com/GeoffZhu/vue-event-calendar",
+      "star": 207
+    },
+    {
+      "text": "vue-calendar-picker",
+      "url": "https://github.com/FranckFreiburger/vue-calendar-picker",
+      "star": 29
+    },
+    {
+      "text": "vue-lunar-calendar",
+      "url": "https://github.com/KimWooHyun/vue-lunar-calendar",
+      "star": 34
+    },
+    {
+      "text": "vue-simple-calendar",
+      "url": "https://github.com/richardtallent/vue-simple-calendar",
+      "star": 59
+    },
+    {
+      "text": "vue2-calendar",
+      "url": "https://github.com/Trekels/vue2-calendar",
+      "star": 11
+    },
+    {
+      "text": "vue-jlunar-datepicker",
+      "url": "https://github.com/tuhe32/vue-jLunar-datePicker",
+      "star": 4
+    },
+    {
+      "text": "vue-datepicker-local",
+      "url": "https://github.com/weifeiyue/vue-datepicker-local",
+      "star": 36
+    },
+    {
+      "text": "vue2-google-maps",
+      "url": "https://github.com/xkjyeah/vue-google-maps",
+      "star": 456
+    },
+    {
+      "text": "vue2-leaflet",
+      "url": "https://github.com/KoRiGaN/Vue2Leaflet",
+      "star": 269
+    },
+    {
+      "text": "vue-mapbox-gl",
+      "url": "https://github.com/phegman/vue-mapbox-gl",
+      "star": 47
+    },
+    {
+      "text": "vue-yandex-maps",
+      "url": "https://github.com/PNKBizz/vue-yandex-map",
+      "star": 53
+    },
+    {
+      "text": "vue-baidu-map",
+      "url": "https://github.com/Dafrok/vue-baidu-map",
+      "star": 431
+    },
+    {
+      "text": "vue-choropleth",
+      "url": "https://github.com/voluntadpear/vue-choropleth",
+      "star": 20
+    },
+    {
+      "text": "vuelayers",
+      "url": "https://github.com/ghettovoice/vuelayers",
+      "star": 35
+    },
+    {
+      "text": "vue-googlemaps",
+      "url": "https://github.com/Akryum/vue-googlemaps",
+      "star": 74
+    },
+    {
+      "text": "vue-static-map",
+      "url": "https://github.com/eperedo/vue-static-map",
+      "star": 3
+    },
+    {
+      "text": "vue-aplayer",
+      "url": "https://github.com/SevenOutman/vue-aplayer",
+      "star": 173
+    },
+    {
+      "text": "vue-audio",
+      "url": "https://github.com/shershen08/vuejs-sound-player",
+      "star": 50
+    },
+    {
+      "text": "vue-dplayer",
+      "url": "https://github.com/sinchang/vue-dplayer",
+      "star": 128
+    },
+    {
+      "text": "vue-canvasvideo",
+      "url": "https://github.com/chrishurlburt/vue-canvasvideo",
+      "star": 8
+    },
+    {
+      "text": "vue-music",
+      "url": "https://github.com/petsgre/music",
+      "star": 8
+    },
+    {
+      "text": "vue-infinite-loading",
+      "url": "https://github.com/PeachScript/vue-infinite-loading",
+      "star": 797
+    },
+    {
+      "text": "vue-mugen-scroll",
+      "url": "https://github.com/egoist/vue-mugen-scroll",
+      "star": 323
+    },
+    {
+      "text": "vue-infinite-scroll",
+      "url": "https://github.com/ElemeFE/vue-infinite-scroll",
+      "star": 1072
+    },
+    {
+      "text": "vue-loop",
+      "url": "https://github.com/lookstudios/vue-loop",
+      "star": 755
+    },
+    {
+      "text": "vue-pull-refresh",
+      "url": "https://github.com/lakb248/vue-pull-refresh",
+      "star": 54
+    },
+    {
+      "text": "vue-pull-to",
+      "url": "https://github.com/stackjie/vue-pull-to",
+      "star": 100
+    },
+    {
+      "text": "vue-data-loading",
+      "url": "https://github.com/bedlate/vue-data-loading",
+      "star": 7
+    },
+    {
+      "text": "vue-markdown",
+      "url": "https://github.com/miaolz123/vue-markdown",
+      "star": 386
+    },
+    {
+      "text": "vue-mavonEditor",
+      "url": "https://github.com/hinesboy/mavonEditor",
+      "star": 547
+    },
+    {
+      "text": "vue-simple-markdown",
+      "url": "https://github.com/Vivify-Ideas/vue-simple-markdown",
+      "star": 12
+    },
+    {
+      "text": "vue-pdf",
+      "url": "https://github.com/FranckFreiburger/vue-pdf",
+      "star": 146
+    },
+    {
+      "text": "vue-social-sharing",
+      "url": "https://github.com/nicolasbeauvais/vue-social-sharing",
+      "star": 268
+    },
+    {
+      "text": "vue-goodshare",
+      "url": "https://github.com/koddr/vue-goodshare",
+      "star": 26
+    },
+    {
+      "text": "vue-qriously",
+      "url": "https://github.com/theomessin/vue-qriously",
+      "star": 66
+    },
+    {
+      "text": "vue-qart",
+      "url": "https://github.com/superman66/vue-qart",
+      "star": 155
+    },
+    {
+      "text": "vue-qrcode-reader",
+      "url": "https://github.com/gruhn/vue-qrcode-reader",
+      "star": 14
+    },
+    {
+      "text": "vue-fuse",
+      "url": "https://github.com/shayneo/vue-fuse",
+      "star": 69
+    },
+    {
+      "text": "vue-avatar",
+      "url": "https://github.com/eliep/vue-avatar",
+      "star": 205
+    },
+    {
+      "text": "vue-touch-ripple",
+      "url": "https://github.com/surmon-china/vue-touch-ripple",
+      "star": 137
+    },
+    {
+      "text": "vue-typer",
+      "url": "https://github.com/cngu/vue-typer",
+      "star": 203
+    },
+    {
+      "text": "vue-keyboard",
+      "url": "https://github.com/MartyWallace/vue-keyboard",
+      "star": 65
+    },
+    {
+      "text": "vue-twentytwenty",
+      "url": "https://github.com/mhayes/vue-twentytwenty",
+      "star": 64
+    },
+    {
+      "text": "vue-cookie-law",
+      "url": "https://github.com/apertureless/vue-cookie-law",
+      "star": 75
+    },
+    {
+      "text": "vue-gravatar",
+      "url": "https://github.com/JiriChara/vue-gravatar",
+      "star": 29
+    },
+    {
+      "text": "vue-clipboard2",
+      "url": "https://github.com/Inndy/vue-clipboard2",
+      "star": 106
+    },
+    {
+      "text": "vue-flashcard",
+      "url": "https://github.com/cuduy197/vue-flashcard",
+      "star": 29
+    },
+    {
+      "text": "vue-truncate-collapsed",
+      "url": "https://github.com/kavalcante/vue-truncate-collapsed",
+      "star": 20
+    },
+    {
+      "text": "vue-kanban",
+      "url": "https://github.com/BrockReece/vue-kanban",
+      "star": 147
+    },
+    {
+      "text": "vue-letter-avatar",
+      "url": "https://github.com/aidewoode/vue-letter-avatar",
+      "star": 16
+    },
+    {
+      "text": "vue-highlightjs",
+      "url": "https://github.com/metachris/vue-highlightjs",
+      "star": 60
+    },
+    {
+      "text": "v-clipboard",
+      "url": "https://github.com/euvl/v-clipboard",
+      "star": 76
+    },
+    {
+      "text": "vue-invisible-recaptcha",
+      "url": "https://github.com/MicroDroid/vue-invisible-recaptcha",
+      "star": 15
+    },
+    {
+      "text": "vue-embed",
+      "url": "https://github.com/Gomah/vue-embed",
+      "star": 20
+    },
+    {
+      "text": "vue-particles",
+      "url": "https://github.com/creotip/vue-particles",
+      "star": 281
+    },
+    {
+      "text": "vue-uniq-ids",
+      "url": "https://github.com/termosa/vue-uniq-ids",
+      "star": 14
+    },
+    {
+      "text": "vue-multivue",
+      "url": "https://github.com/drewjbartlett/vue-multivue",
+      "star": 5
+    },
+    {
+      "text": "vue-affix",
+      "url": "https://github.com/eddiemf/vue-affix",
+      "star": 79
+    },
+    {
+      "text": "X-Browser-Update-Vue",
+      "url": "https://github.com/OXOYO/X-Browser-Update-Vue",
+      "star": 6
+    },
+    {
+      "text": "vue-query-builder",
+      "url": "https://github.com/dabernathy89/vue-query-builder",
+      "star": 158
+    },
+    {
+      "text": "vue-info-card",
+      "url": "https://github.com/karakanb/vue-info-card",
+      "star": 26
+    },
+    {
+      "text": "v-offline",
+      "url": "https://github.com/vinayakkulkarni/v-offline",
+      "star": 52
+    },
+    {
+      "text": "vue-word-cloud",
+      "url": "https://github.com/SeregPie/VueWordCloud",
+      "star": 28
+    },
+    {
+      "text": "vue-flat-surface-shader",
+      "url": "https://github.com/grzhan/vue-flat-surface-shader",
+      "star": 3
+    },
+    {
+      "text": "flat surface shader",
+      "url": "https://github.com/wagerfield/flat-surface-shader",
+      "star": 2114
+    },
+    {
+      "text": "vue-easteregg",
+      "url": "https://github.com/ddgll/vue-easteregg",
+      "star": 1
+    },
+    {
+      "text": "vue-barcode-scanner",
+      "url": "https://github.com/noomerzx/vue-barcode-scanner",
+      "star": 18
+    },
+    {
+      "text": "vue-heatmapjs",
+      "url": "https://github.com/BrockReece/vue-heatmapjs",
+      "star": 27
+    },
+    {
+      "text": "vue-maze",
+      "url": "https://github.com/meganetaaan/vue-maze",
+      "star": 11
+    },
+    {
+      "text": "vue-drag-verify",
+      "url": "https://github.com/AshleyLv/vue-drag-verify",
+      "star": 5
+    },
+    {
+      "text": "vue-balloon",
+      "url": "https://github.com/kevinwarne/vue-balloon",
+      "star": 18
+    },
+    {
+      "text": "vue-sticker",
+      "url": "https://github.com/KamilOcean/vue-sticker",
+      "star": 68
+    },
+    {
+      "text": "vue-tabs",
+      "url": "https://github.com/cristijora/vue-tabs",
+      "star": 85
+    },
+    {
+      "text": "vue-swipe-tabs",
+      "url": "https://github.com/zhangxiang958/vue-tab",
+      "star": 12
+    },
+    {
+      "text": "vue-xeditable",
+      "url": "https://github.com/Kar-Wai-Wong/vue-xeditable",
+      "star": 19
+    },
+    {
+      "text": "vue-smooth-picker",
+      "url": "https://github.com/hiyali/vue-smooth-picker",
+      "star": 44
+    },
+    {
+      "text": "vue-json-schema",
+      "url": "https://github.com/demsking/vue-json-schema",
+      "star": 116
+    },
+    {
+      "text": "vue-datepicker",
+      "url": "https://github.com/hilongjw/vue-datepicker",
+      "star": 577
+    },
+    {
+      "text": "vue2-timepicker",
+      "url": "https://github.com/phoenixwong/vue2-timepicker",
+      "star": 132
+    },
+    {
+      "text": "vuejs-datepicker",
+      "url": "https://github.com/charliekassel/vuejs-datepicker",
+      "star": 579
+    },
+    {
+      "text": "vuedt",
+      "url": "https://github.com/nkoehring/vuedt",
+      "star": 4
+    },
+    {
+      "text": "vue-flatpickr-component",
+      "url": "https://github.com/ankurk91/vue-flatpickr-component",
+      "star": 123
+    },
+    {
+      "text": "flatpickr",
+      "url": "https://github.com/chmln/flatpickr",
+      "star": 8983
+    },
+    {
+      "text": "vue-bootstrap-datetimepicker",
+      "url": "https://github.com/ankurk91/vue-bootstrap-datetimepicker",
+      "star": 49
+    },
+    {
+      "text": "eonasdan-bootstrap-datetimepicker",
+      "url": "https://github.com/Eonasdan/bootstrap-datetimepicker/",
+      "star": 5911
+    },
+    {
+      "text": "vue-jalaali-datepicker",
+      "url": "https://github.com/pepour/vue-jalaali-datepicker",
+      "star": 9
+    },
+    {
+      "text": "vue-date-picker",
+      "url": "https://github.com/ridewn/vue-date-picker",
+      "star": 22
+    },
+    {
+      "text": "vue-monthly-picker",
+      "url": "https://github.com/ittus/vue-monthly-picker",
+      "star": 8
+    },
+    {
+      "text": "vue-hotel-datepicker",
+      "url": "https://github.com/krystalcampioni/vue-hotel-datepicker",
+      "star": 124
+    },
+    {
+      "text": "vue2-persian-datepicker",
+      "url": "https://github.com/dyonir/vue2-persian-datepicker",
+      "star": 20
+    },
+    {
+      "text": "vue-datetime",
+      "url": "https://github.com/mariomka/vue-datetime",
+      "star": 21
+    },
+    {
+      "text": "vue-select",
+      "url": "https://github.com/sagalbot/vue-select",
+      "star": 1469
+    },
+    {
+      "text": "vue-multiselect",
+      "url": "https://github.com/monterail/vue-multiselect",
+      "star": 2320
+    },
+    {
+      "text": "stf-vue-select",
+      "url": "https://github.com/stfalcon-studio/stf-vue-select",
+      "star": 38
+    },
+    {
+      "text": "vue-select-image",
+      "url": "https://github.com/mazipan/vue-select-image",
+      "star": 16
+    },
+    {
+      "text": "@riophae/vue-treeselect",
+      "url": "https://github.com/riophae/vue-treeselect",
+      "star": 56
+    },
+    {
+      "text": "@k186/pd-select",
+      "url": "https://github.com/k186/pd-select",
+      "star": 32
+    },
+    {
+      "text": "vue-slider-component",
+      "url": "https://github.com/NightCatSama/vue-slider-component",
+      "star": 409
+    },
+    {
+      "text": "vue-circle-slider",
+      "url": "https://github.com/devstark-com/vue-circle-slider",
+      "star": 78
+    },
+    {
+      "text": "vuedraggable",
+      "url": "https://github.com/SortableJS/Vue.Draggable",
+      "star": 2301
+    },
+    {
+      "text": "vue-dragula",
+      "url": "https://github.com/Astray-git/vue-dragula",
+      "star": 199
+    },
+    {
+      "text": "vue2-dragula",
+      "url": "https://github.com/kristianmandrup/vue2-dragula",
+      "star": 120
+    },
+    {
+      "text": "awe-dnd",
+      "url": "https://github.com/hilongjw/vue-dragging",
+      "star": 237
+    },
+    {
+      "text": "vue-draggable-resizable",
+      "url": "https://github.com/mauricius/vue-draggable-resizable",
+      "star": 153
+    },
+    {
+      "text": "vddl",
+      "url": "https://github.com/hejianxian/vddl",
+      "star": 122
+    },
+    {
+      "text": "vue-drag-drop",
+      "url": "https://github.com/cameronhimself/vue-drag-drop",
+      "star": 30
+    },
+    {
+      "text": "vue-swing",
+      "url": "https://github.com/goweiwen/vue-swing",
+      "star": 2
+    },
+    {
+      "text": "vue-instant",
+      "url": "https://github.com/santiblanko/vue-instant",
+      "star": 233
+    },
+    {
+      "text": "v-autocomplete",
+      "url": "https://github.com/paliari/v-autocomplete",
+      "star": 78
+    },
+    {
+      "text": "vue-awesomplete",
+      "url": "https://github.com/sandi-racy/vue-awesomplete",
+      "star": 9
+    },
+    {
+      "text": "vue-auto-complete",
+      "url": "https://github.com/charliekassel/vuejs-autocomplete",
+      "star": 9
+    },
+    {
+      "text": "vue-tagsinput",
+      "url": "https://github.com/Ginhing/vue-tagsinput",
+      "star": 61
+    },
+    {
+      "text": "vue-input-tag",
+      "url": "https://github.com/matiastucci/vue-input-tag",
+      "star": 192
+    },
+    {
+      "text": "v-distpicker",
+      "url": "https://github.com/jcc/v-distpicker",
+      "star": 262
+    },
+    {
+      "text": "vue-img-inputer",
+      "url": "https://github.com/waynecz/vue-img-inputer",
+      "star": 199
+    },
+    {
+      "text": "vue-img-preview",
+      "url": "https://github.com/dameety/vue-image-preview",
+      "star": 6
+    },
+    {
+      "text": "v-image",
+      "url": "https://github.com/vinayakkulkarni/v-image",
+      "star": 7
+    },
+    {
+      "text": "vue-color",
+      "url": "https://github.com/xiaokaike/vue-color",
+      "star": 671
+    },
+    {
+      "text": "vue-switches",
+      "url": "https://github.com/drewjbartlett/vue-switches",
+      "star": 72
+    },
+    {
+      "text": "vue-js-toggle-button",
+      "url": "https://github.com/euvl/vue-js-toggle-button",
+      "star": 193
+    },
+    {
+      "text": "vue-checkbox-radio",
+      "url": "https://github.com/mariomka/vue-checkbox-radio",
+      "star": 33
+    },
+    {
+      "text": "vue-enhanced-check",
+      "url": "https://github.com/Keiwen/vue-enhancedCheck",
+      "star": 3
+    },
+    {
+      "text": "vue-masked-input",
+      "url": "https://github.com/niksmr/vue-masked-input",
+      "star": 211
+    },
+    {
+      "text": "vue-text-mask",
+      "url": "https://github.com/text-mask/text-mask",
+      "star": 2348
+    },
+    {
+      "text": "vue-ip-input",
+      "url": "https://github.com/lakb248/vue-ip-input",
+      "star": 16
+    },
+    {
+      "text": "vue-numeric",
+      "url": "https://github.com/kevinongko/vue-numeric",
+      "star": 105
+    },
+    {
+      "text": "awesome-mask",
+      "url": "https://github.com/moip/awesome-mask",
+      "star": 89
+    },
+    {
+      "text": "v-money",
+      "url": "https://github.com/vuejs-tips/v-money",
+      "star": 122
+    },
+    {
+      "text": "vue-autonumeric",
+      "url": "https://github.com/autoNumeric/vue-autoNumeric",
+      "star": 15
+    },
+    {
+      "text": "vue-inputmask",
+      "url": "https://github.com/scleriot/vue-inputmask",
+      "star": 9
+    },
+    {
+      "text": "vue-quill-editor",
+      "url": "https://github.com/surmon-china/vue-quill-editor",
+      "star": 1252
+    },
+    {
+      "text": "vue-mobiledoc-editor",
+      "url": "https://github.com/alidcastano/vue-mobiledoc-editor",
+      "star": 31
+    },
+    {
+      "text": "vue2-medium-editor",
+      "url": "https://github.com/FranzSkuffka/vue-medium-editor",
+      "star": 168
+    },
+    {
+      "text": "vue-froala",
+      "url": "https://github.com/helpbase/vue-froala",
+      "star": 14
+    },
+    {
+      "text": "vue-froala-wysiwyg",
+      "url": "https://github.com/froala/vue-froala-wysiwyg",
+      "star": 116
+    },
+    {
+      "text": "vue-at",
+      "url": "https://github.com/fritx/vue-at",
+      "star": 151
+    },
+    {
+      "text": "vue-wysiwyg",
+      "url": "https://github.com/chmln/vue-wysiwyg",
+      "star": 76
+    },
+    {
+      "text": "vue-trumbowyg",
+      "url": "https://github.com/ankurk91/vue-trumbowyg",
+      "star": 26
+    },
+    {
+      "text": "vue-pell-editor",
+      "url": "https://github.com/CinKon/vue-pell-editor",
+      "star": 9
+    },
+    {
+      "text": "vue-tinymce-editor",
+      "url": "https://github.com/dyonir/vue-tinymce-editor",
+      "star": 32
+    },
+    {
+      "text": "vue-mce",
+      "url": "https://github.com/Eazymov/vue-mce",
+      "star": 3
+    },
+    {
+      "text": "vue-core-image-upload",
+      "url": "https://github.com/Vanthink-UED/vue-core-image-upload",
+      "star": 729
+    },
+    {
+      "text": "vue-croppa",
+      "url": "https://github.com/zhanziyang/vue-croppa",
+      "star": 160
+    },
+    {
+      "text": "vue-cropper",
+      "url": "https://github.com/xyxiao001/vue-cropper",
+      "star": 196
+    },
+    {
+      "text": "vue-clip",
+      "url": "https://github.com/thetutlage/vue-clip",
+      "star": 118
+    },
+    {
+      "text": "vue-simple-upload",
+      "url": "https://github.com/saivarunk/vue-simple-upload",
+      "star": 45
+    },
+    {
+      "text": "vue2-multi-uploader",
+      "url": "https://github.com/abarta/vue2-multi-uploader",
+      "star": 42
+    },
+    {
+      "text": "vue-dropzone",
+      "url": "https://github.com/rowanwins/vue-dropzone",
+      "star": 546
+    },
+    {
+      "text": "vue-transmit",
+      "url": "https://github.com/alexsasharegan/vue-transmit",
+      "star": 100
+    },
+    {
+      "text": "vue-upload-component",
+      "url": "https://github.com/lian-yue/vue-upload-component",
+      "star": 543
+    },
+    {
+      "text": "vue-uploader",
+      "url": "https://github.com/simple-uploader/vue-uploader",
+      "star": 205
+    },
+    {
+      "text": "vue-context-menu",
+      "url": "https://github.com/vmaimone/vue-context-menu",
+      "star": 107
+    },
+    {
+      "text": "vue-lil-context-menu",
+      "url": "https://github.com/timwis/vue-lil-context-menu",
+      "star": 5
+    },
+    {
+      "text": "vue-mouse-menu",
+      "url": "https://github.com/zgj233/vue-mouse-menu",
+      "star": 11
+    },
+    {
+      "text": "@hscmap/vue-menu",
+      "url": "https://github.com/michitaro/vue-menu",
+      "star": 38
+    },
+    {
+      "text": "vue-gmaps",
+      "url": "https://github.com/ridermansb/vue-gmaps",
+      "star": 67
+    },
+    {
+      "text": "vuep",
+      "url": "https://github.com/QingWei-Li/vuep",
+      "star": 189
+    },
+    {
+      "text": "vue-places",
+      "url": "https://github.com/Gomah/vue-places",
+      "star": 51
+    },
+    {
+      "text": "vue-password-strength-meter",
+      "url": "https://github.com/apertureless/vue-password-strength-meter",
+      "star": 148
+    },
+    {
+      "text": "vue-float-label",
+      "url": "https://github.com/bkzl/vue-float-label",
+      "star": 104
+    },
+    {
+      "text": "vue-longpress",
+      "url": "https://github.com/javisperez/vuelongpress",
+      "star": 46
+    },
+    {
+      "text": "vue-google-autocomplete",
+      "url": "https://github.com/olefirenko/vue-google-autocomplete",
+      "star": 158
+    },
+    {
+      "text": "vue-ip-input",
+      "url": "https://github.com/lakb248/vue-ip-input",
+      "star": 16
+    },
+    {
+      "text": "vue-default-value",
+      "url": "https://github.com/termosa/vue-default-value",
+      "star": 11
+    },
+    {
+      "text": "vue-model-autoset",
+      "url": "https://github.com/outluch/vue-model-autoset",
+      "star": 9
+    },
+    {
+      "text": "vue-submit",
+      "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit",
+      "star": 80
+    },
+    {
+      "text": "vue-rate",
+      "url": "https://github.com/SinanMtl/vue-rate",
+      "star": 104
+    },
+    {
+      "text": "vuetify-google-autocomplete",
+      "url": "https://github.com/MadimetjaShika/vuetify-google-autocomplete",
+      "star": 13
+    },
+    {
+      "text": "vue-ripple-directive",
+      "url": "https://github.com/PygmySlowLoris/vue-ripple-directive",
+      "star": 94
+    },
+    {
+      "text": "vue-fab",
+      "url": "https://github.com/PygmySlowLoris/vue-fab",
+      "star": 47
+    },
+    {
+      "text": "vue-complexify",
+      "url": "https://github.com/mazipan/vue-complexify",
+      "star": 4
+    },
+    {
+      "text": "vue-mc",
+      "url": "https://github.com/FiguredLimited/vue-mc",
+      "star": 164
+    },
+    {
+      "text": "vue-form-wizard",
+      "url": "https://github.com/cristijora/vue-form-wizard",
+      "star": 278
+    },
+    {
+      "text": "vue-stepper",
+      "url": "https://github.com/PygmySlowLoris/vue-stepper",
+      "star": 26
+    },
+    {
+      "text": "vue-waterfall",
+      "url": "https://github.com/MopTym/vue-waterfall",
+      "star": 930
+    },
+    {
+      "text": "vueisotope",
+      "url": "https://github.com/David-Desmaisons/Vue.Isotope",
+      "star": 147
+    },
+    {
+      "text": "vue-grid-layout",
+      "url": "https://github.com/jbaysolutions/vue-grid-layout",
+      "star": 631
+    },
+    {
+      "text": "vue-drag-zone",
+      "url": "https://github.com/surmon-china/vue-drag-zone",
+      "star": 41
+    },
+    {
+      "text": "vue-masonry",
+      "url": "https://github.com/shershen08/vue-masonry",
+      "star": 125
+    },
+    {
+      "text": "vue-fraction-grid",
+      "url": "https://github.com/bkzl/vue-fraction-grid",
+      "star": 60
+    },
+    {
+      "text": "vue-virtual-scroll-list",
+      "url": "https://github.com/tangbc/vue-virtual-scroll-list",
+      "star": 163
+    },
+    {
+      "text": "vue-virtual-scroller",
+      "url": "https://github.com/Akryum/vue-virtual-scroller",
+      "star": 414
+    },
+    {
+      "text": "vue-virtualscroll",
+      "url": "https://github.com/ddgll/vue-virtualscroll",
+      "star": 6
+    },
+    {
+      "text": "vue-inview",
+      "url": "https://github.com/rachmanzz/vue-inview",
+      "star": 17
+    },
+    {
+      "text": "dnd-grid",
+      "url": "https://github.com/dattn/dnd-grid",
+      "star": 76
+    },
+    {
+      "text": "vue-extend-layout",
+      "url": "https://github.com/ktquez/vue-extend-layout",
+      "star": 25
+    },
+    {
+      "text": "vue-masonry-css",
+      "url": "https://github.com/paulcollett/vue-masonry-css",
+      "star": 23
+    },
+    {
+      "text": "quasar-framework",
+      "url": "https://github.com/quasarframework/quasar",
+      "star": 4077
+    },
+    {
+      "text": "vue-material",
+      "url": "https://github.com/vuematerial/vue-material",
+      "star": 4756
+    },
+    {
+      "text": "vuetify",
+      "url": "https://github.com/vuetifyjs/vuetify",
+      "star": 6518
+    },
+    {
+      "text": "muse-ui",
+      "url": "https://github.com/museui/muse-ui",
+      "star": 4940
+    },
+    {
+      "text": "buefy",
+      "url": "https://github.com/rafaelpimpa/buefy",
+      "star": 1599
+    },
+    {
+      "text": "element-ui",
+      "url": "https://github.com/ElemeFE/element",
+      "star": 19847
+    },
+    {
+      "text": "vue-bulma-components",
+      "url": "https://github.com/vouill/vue-bulma-components",
+      "star": 62
+    },
+    {
+      "text": "Framework7-Vue",
+      "url": "https://github.com/nolimits4web/Framework7-Vue",
+      "star": 388
+    },
+    {
+      "text": "vux",
+      "url": "https://github.com/airyland/vux",
+      "star": 10085
+    },
+    {
+      "text": "vue-onsenui",
+      "url": "https://github.com/OnsenUI/OnsenUI",
+      "star": 5583
+    },
+    {
+      "text": "vue-mdc",
+      "url": "https://github.com/posva/vue-mdc",
+      "star": 1110
+    },
+    {
+      "text": "keen-ui",
+      "url": "https://github.com/JosephusPaye/Keen-UI",
+      "star": 3084
+    },
+    {
+      "text": "vue-admin",
+      "url": "https://github.com/vue-bulma/vue-admin",
+      "star": 6550
+    },
+    {
+      "text": "vuikit",
+      "url": "https://github.com/vuikit/vuikit",
+      "star": 830
+    },
+    {
+      "text": "uiv",
+      "url": "https://github.com/wxsms/uiv",
+      "star": 294
+    },
+    {
+      "text": "yuche/vue-strap",
+      "url": "https://github.com/yuche/vue-strap",
+      "star": 4456
+    },
+    {
+      "text": "wffranco/vue-strap",
+      "url": "https://github.com/wffranco/vue-strap",
+      "star": 307
+    },
+    {
+      "text": "N3-components",
+      "url": "https://github.com/N3-components/N3-components",
+      "star": 798
+    },
+    {
+      "text": "jsmod-vue-pc",
+      "url": "https://github.com/chaogao/jsmod-pc-vue",
+      "star": 57
+    },
+    {
+      "text": "guilhermewaess/SemVue",
+      "url": "https://github.com/guilhermewaess/SemVue",
+      "star": 26
+    },
+    {
+      "text": "office-ui-fabric-vue",
+      "url": "https://github.com/aidewoode/office-ui-fabric-vue",
+      "star": 36
+    },
+    {
+      "text": "vuestic-admin",
+      "url": "https://github.com/epicmaxco/vuestic-admin",
+      "star": 2577
+    },
+    {
+      "text": "mint-ui",
+      "url": "https://github.com/ElemeFE/mint-ui",
+      "star": 8400
+    },
+    {
+      "text": "vant",
+      "url": "https://github.com/youzan/vant",
+      "star": 1139
+    },
+    {
+      "text": "iView Vue Admin",
+      "url": "https://github.com/TonyLuo/iview-vue-admin",
+      "star": 21
+    },
+    {
+      "text": "nuxt",
+      "url": "https://github.com/nuxt/nuxt.js",
+      "star": 7666
+    },
+    {
+      "text": "app-framework",
+      "url": "https://github.com/scriptPilot/app-framework",
+      "star": 348
+    },
+    {
+      "text": "Myfirebase",
+      "url": "https://github.com/myfirebase/myfirebase",
+      "star": 20
+    },
+    {
+      "text": "vue-shortkey",
+      "url": "https://github.com/iFgR/vue-shortkey",
+      "star": 177
+    },
+    {
+      "text": "vue-throttle-event",
+      "url": "https://github.com/scaccogatto/vue-throttle-event",
+      "star": 13
+    },
+    {
+      "text": "vue-waypoint",
+      "url": "https://github.com/scaccogatto/vue-waypoint",
+      "star": 53
+    },
+    {
+      "text": "vue-clickaway",
+      "url": "https://github.com/simplesmiler/vue-clickaway",
+      "star": 263
+    },
+    {
+      "text": "vue-scrollfire",
+      "url": "https://github.com/vue-comps/vue-scrollfire",
+      "star": 14
+    },
+    {
+      "text": "vue-resize-directive",
+      "url": "https://github.com/David-Desmaisons/Vue.resize",
+      "star": 90
+    },
+    {
+      "text": "v-click-outside",
+      "url": "https://github.com/ndelvalle/v-click-outside",
+      "star": 105
+    },
+    {
+      "text": "vue-outside-events",
+      "url": "https://github.com/nchutchind/vue-outside-events",
+      "star": 14
+    },
+    {
+      "text": "vue-selectable",
+      "url": "https://github.com/JSmith01/vue-selectable",
+      "star": 19
+    },
+    {
+      "text": "vue-click-helper",
+      "url": "https://github.com/huangshuwei/vue-click-helper",
+      "star": 1
+    },
+    {
+      "text": "v-hotkey",
+      "url": "https://github.com/Dafrok/v-hotkey",
+      "star": 116
+    },
+    {
+      "text": "vue-resize",
+      "url": "https://github.com/Akryum/vue-resize",
+      "star": 47
+    },
+    {
+      "text": "vue-observe-visibility",
+      "url": "https://github.com/Akryum/vue-observe-visibility",
+      "star": 104
+    },
+    {
+      "text": "v-dragged",
+      "url": "https://github.com/zhanziyang/v-dragged",
+      "star": 5
+    },
+    {
+      "text": "vue-viewports",
+      "url": "https://github.com/scaccogatto/vue-viewports",
+      "star": 22
+    },
+    {
+      "text": "vue-responsive",
+      "url": "https://github.com/reinerBa/Vue-Responsive",
+      "star": 15
+    },
+    {
+      "text": "vue-match-media",
+      "url": "https://github.com/drenglish/vue-match-media",
+      "star": 13
+    },
+    {
+      "text": "vue-media-query-mixin",
+      "url": "https://github.com/jofftiquez/vue-media-query-mixin",
+      "star": 8
+    },
+    {
+      "text": "vue-breakpoints",
+      "url": "https://github.com/apertureless/vue-breakpoints",
+      "star": 47
+    },
+    {
+      "text": "vue-mq",
+      "url": "https://github.com/AlexandreBonaventure/vue-mq",
+      "star": 5
+    },
+    {
+      "text": "vue-formly",
+      "url": "https://github.com/formly-js/vue-formly",
+      "star": 114
+    },
+    {
+      "text": "vue-focus",
+      "url": "https://github.com/simplesmiler/vue-focus",
+      "star": 202
+    },
+    {
+      "text": "vue-form-generator",
+      "url": "https://github.com/icebob/vue-form-generator",
+      "star": 747
+    },
+    {
+      "text": "vue-json-schema",
+      "url": "https://github.com/demsking/vue-json-schema",
+      "star": 116
+    },
+    {
+      "text": "vue-validator",
+      "url": "https://github.com/kazupon/vue-validator",
+      "star": 2067
+    },
+    {
+      "text": "vee-validate",
+      "url": "https://github.com/logaretm/vee-validate",
+      "star": 3001
+    },
+    {
+      "text": "vue-rawmodel",
+      "url": "https://github.com/xpepermint/vue-rawmodel",
+      "star": 58
+    },
+    {
+      "text": "vuelidate",
+      "url": "https://github.com/monterail/vuelidate",
+      "star": 1578
+    },
+    {
+      "text": "simple-vue-validator",
+      "url": "https://github.com/semisleep/simple-vue-validator",
+      "star": 142
+    },
+    {
+      "text": "vue-vform",
+      "url": "https://github.com/joseluisq/vue-vform",
+      "star": 5
+    },
+    {
+      "text": "vue-form",
+      "url": "https://github.com/fergaldoyle/vue-form",
+      "star": 454
+    },
+    {
+      "text": "vuelidation",
+      "url": "https://github.com/cj/vuelidation",
+      "star": 20
+    },
+    {
+      "text": "laravel-vue-validator",
+      "url": "https://github.com/val-bubbleflat/laravel-vue-validator",
+      "star": 10
+    },
+    {
+      "text": "vuejs-model-validator",
+      "url": "https://github.com/deulos/vuejs-model-validator",
+      "star": 9
+    },
+    {
+      "text": "vue-chat-scroll",
+      "url": "https://github.com/theomessin/vue-chat-scroll",
+      "star": 129
+    },
+    {
+      "text": "vue-scrollto",
+      "url": "https://github.com/rigor789/vue-scrollTo",
+      "star": 354
+    },
+    {
+      "text": "VBar",
+      "url": "https://github.com/luiguild/v-bar",
+      "star": 130
+    },
+    {
+      "text": "vue-detached-scrollbar",
+      "url": "https://github.com/ozangulle/vue-detached-scrollbar",
+      "star": 0
+    },
+    {
+      "text": "vue-scrollview",
+      "url": "https://github.com/chrishurlburt/vue-scrollview",
+      "star": 28
+    },
+    {
+      "text": "vue-scrollactive",
+      "url": "https://github.com/eddiemf/vue-scrollactive",
+      "star": 65
+    },
+    {
+      "text": "vue-intersect",
+      "url": "https://github.com/heavyy/vue-intersect",
+      "star": 54
+    },
+    {
+      "text": "vue-scrollmonitor",
+      "url": "https://github.com/AlexandreBonaventure/vue-scrollmonitor",
+      "star": 8
+    },
+    {
+      "text": "vue-stroll",
+      "url": "https://github.com/xiaoluoboding/vue-stroll",
+      "star": 76
+    },
+    {
+      "text": "navscroll-js",
+      "url": "https://github.com/nash403/navscroll-js",
+      "star": 2
+    },
+    {
+      "text": "vue-scroll-behavior",
+      "url": "https://github.com/jeneser/vue-scroll-behavior",
+      "star": 53
+    },
+    {
+      "text": "vue-router",
+      "url": "https://github.com/vuejs/vue-router",
+      "star": 7754
+    },
+    {
+      "text": "vue-router-storage",
+      "url": "https://github.com/ElderJames/vue-router-storage",
+      "star": 30
+    },
+    {
+      "text": "vue-tidyroutes",
+      "url": "https://github.com/edgarnadal/vue-tidyroutes",
+      "star": 11
+    },
+    {
+      "text": "vue-lazyload",
+      "url": "https://github.com/hilongjw/vue-lazyload",
+      "star": 2090
+    },
+    {
+      "text": "vue-lazy-background-images",
+      "url": "https://github.com/darrynten/vue-lazy-background-images",
+      "star": 41
+    },
+    {
+      "text": "vue-progressive-image",
+      "url": "https://github.com/MatteoGabriele/vue-progressive-image",
+      "star": 220
+    },
+    {
+      "text": "vue-l-lazyload",
+      "url": "https://github.com/lsycxyj/vue-l-lazyload",
+      "star": 17
+    },
+    {
+      "text": "vue-lazyload-img",
+      "url": "https://github.com/JALBAA/vue-lazyload-img",
+      "star": 184
+    },
+    {
+      "text": "vue-lazy-images",
+      "url": "https://github.com/yyh1102/vue-lazyload-images",
+      "star": 36
+    },
+    {
+      "text": "v-lazy-img",
+      "url": "https://github.com/nkoehring/v-lazy-img",
+      "star": 12
+    },
+    {
+      "text": "vue-clazy-load",
+      "url": "https://github.com/matheusgrieger/vue-clazy-load",
+      "star": 32
+    },
+    {
+      "text": "vue-lazy-this",
+      "url": "https://github.com/thangman22/vue-lazy-this",
+      "star": 6
+    },
+    {
+      "text": "vue-paginate",
+      "url": "https://github.com/TahaSh/vue-paginate",
+      "star": 340
+    },
+    {
+      "text": "vue-pagination-2",
+      "url": "https://github.com/matfish2/vue-pagination-2",
+      "star": 56
+    },
+    {
+      "text": "vuejs-uib-pagination",
+      "url": "https://github.com/sant123/vuejs-uib-pagination",
+      "star": 32
+    },
+    {
+      "text": "vuejs-paginate",
+      "url": "https://github.com/lokyoung/vuejs-paginate",
+      "star": 190
+    },
+    {
+      "text": "vue-pagination-bootstrap",
+      "url": "https://github.com/brunoseco/vue-pagination-bootstrap",
+      "star": 9
+    },
+    {
+      "text": "laravel-vue-semantic-ui-pagination",
+      "url": "https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination",
+      "star": 5
+    },
+    {
+      "text": "vue2-animate",
+      "url": "https://github.com/asika32764/vue2-animate",
+      "star": 347
+    },
+    {
+      "text": "animated-vue",
+      "url": "https://github.com/radical-dreamers/animated-vue",
+      "star": 123
+    },
+    {
+      "text": "vue-lottie",
+      "url": "https://github.com/chenqingspring/vue-lottie",
+      "star": 91
+    },
+    {
+      "text": "Vueg",
+      "url": "https://github.com/jaweii/vueg",
+      "star": 399
+    },
+    {
+      "text": "vue-mixin-tween",
+      "url": "https://github.com/lukechinworth/vue-mixin-tween",
+      "star": 0
+    },
+    {
+      "text": "vue-head",
+      "url": "https://github.com/ktquez/vue-head",
+      "star": 537
+    },
+    {
+      "text": "vue-meta",
+      "url": "https://github.com/declandewet/vue-meta",
+      "star": 800
+    },
+    {
+      "text": "vue-dom-portal",
+      "url": "https://github.com/calebroseland/vue-dom-portal",
+      "star": 70
+    },
+    {
+      "text": "vue2-filters",
+      "url": "https://github.com/freearhey/vue2-filters",
+      "star": 320
+    },
+    {
+      "text": "morphling",
+      "url": "https://github.com/jofftiquez/morphling",
+      "star": 27
+    },
+    {
+      "text": "vue-currency-filter",
+      "url": "https://github.com/mazipan/vue-currency-filter",
+      "star": 16
+    },
+    {
+      "text": "vue-trans",
+      "url": "https://github.com/Trekels/vue-trans",
+      "star": 1
+    },
+    {
+      "text": "vue-svgicon",
+      "url": "https://github.com/MMF-FE/vue-svgicon",
+      "star": 219
+    },
+    {
+      "text": "vue-content-loading",
+      "url": "https://github.com/LucasLeandro1204/vue-content-loading",
+      "star": 50
+    },
+    {
+      "text": "vue-resource-progressbar-interceptor",
+      "url": "https://github.com/staskjs/vue-resource-progressbar-interceptor",
+      "star": 46
+    },
+    {
+      "text": "vue-images-loaded",
+      "url": "https://github.com/David-Desmaisons/Vue.ImagesLoaded",
+      "star": 38
+    },
+    {
+      "text": "vue-visible",
+      "url": "https://github.com/javisperez/vue-visible",
+      "star": 2
+    },
+    {
+      "text": "vue-resize-sensor",
+      "url": "https://github.com/FranckFreiburger/vue-resize-sensor",
+      "star": 42
+    },
+    {
+      "text": "v-blur",
+      "url": "https://github.com/ndelvalle/v-blur",
+      "star": 40
+    },
+    {
+      "text": "vue-async-methods",
+      "url": "https://github.com/mokkabonna/vue-async-methods",
+      "star": 14
+    },
+    {
+      "text": "vue-openseadragon",
+      "url": "https://github.com/braceslab/vue-openseadragon",
+      "star": 5
+    },
+    {
+      "text": "vue-match-heights",
+      "url": "https://github.com/samturrell/vue-match-heights",
+      "star": 1
+    },
+    {
+      "text": "vue-3d-model",
+      "url": "https://github.com/hujiulong/vue-3d-model",
+      "star": 253
+    },
+    {
+      "text": "vue-pano",
+      "url": "https://github.com/ChiChou/vue-pano",
+      "star": 151
+    },
+    {
+      "text": "vue-threejs",
+      "url": "https://github.com/fritx/vue-threejs",
+      "star": 127
+    },
+    {
+      "text": "VueGL",
+      "url": "https://github.com/vue-gl/vue-gl",
+      "star": 10
+    },
+    {
+      "text": "vue-fullscreen",
+      "url": "https://github.com/mirari/vue-fullscreen",
+      "star": 64
+    },
+    {
+      "text": "vue-typed",
+      "url": "https://github.com/vue-typed/vue-typed",
+      "star": 55
+    },
+    {
+      "text": "vue-typescript",
+      "url": "https://github.com/itsFrank/vue-typescript",
+      "star": 336
+    },
+    {
+      "text": "vue-property-decorator",
+      "url": "https://github.com/kaorun343/vue-property-decorator",
+      "star": 309
+    },
+    {
+      "text": "vue-typescript-component",
+      "url": "https://github.com/locoslab/vue-typescript-component",
+      "star": 27
+    },
+    {
+      "text": "vue-typescript-import-dts",
+      "url": "https://github.com/locoslab/vue-typescript-import-dts",
+      "star": 24
+    },
+    {
+      "text": "vue-ts-loader",
+      "url": "https://github.com/HerringtonDarkholme/vue-ts-loader",
+      "star": 67
+    },
+    {
+      "text": "vue-resource",
+      "url": "https://github.com/pagekit/vue-resource",
+      "star": 7012
+    },
+    {
+      "text": "vue-async-computed",
+      "url": "https://github.com/foxbenjaminfox/vue-async-computed",
+      "star": 236
+    },
+    {
+      "text": "vue-jsonp",
+      "url": "https://github.com/LancerComet/vue-jsonp",
+      "star": 37
+    },
+    {
+      "text": "v-model",
+      "url": "https://github.com/huanleguang/v-model",
+      "star": 32
+    },
+    {
+      "text": "vue-resource-mock",
+      "url": "https://github.com/noru/vue-resource-mock",
+      "star": 17
+    },
+    {
+      "text": "vue-async-data-2",
+      "url": "https://github.com/kamijin-fanta/vue-async-data",
+      "star": 25
+    },
+    {
+      "text": "vue-api-request",
+      "url": "https://github.com/ftgibran/vue-api-request",
+      "star": 93
+    },
+    {
+      "text": "vue-fast-axios",
+      "url": "https://github.com/leonardovilarinho/vue-fast-axios",
+      "star": 7
+    },
+    {
+      "text": "vue-i18n",
+      "url": "https://github.com/kazupon/vue-i18n",
+      "star": 1727
+    },
+    {
+      "text": "vue-translate-plugin",
+      "url": "https://github.com/javisperez/vuetranslate",
+      "star": 47
+    },
+    {
+      "text": "vuex-i18n",
+      "url": "https://github.com/dkfbasel/vuex-i18n",
+      "star": 216
+    },
+    {
+      "text": "vue-gettext",
+      "url": "https://github.com/Polyconseil/vue-gettext",
+      "star": 81
+    },
+    {
+      "text": "vue-i18n",
+      "url": "https://github.com/MattyRad/vue-i18n",
+      "star": 27
+    },
+    {
+      "text": "vue-multilanguage",
+      "url": "https://github.com/leonardovilarinho/vue-multilanguage",
+      "star": 69
+    },
+    {
+      "text": "vue-ts-locale",
+      "url": "https://github.com/twcapps/vue-ts-locale",
+      "star": 18
+    },
+    {
+      "text": "vue-i18next",
+      "url": "https://github.com/panter/vue-i18next",
+      "star": 22
+    },
+    {
+      "text": "vue-polyglot",
+      "url": "https://github.com/guillaumevincent/vue-polyglot",
+      "star": 42
+    },
+    {
+      "text": "v-localize",
+      "url": "https://github.com/neetjn/v-localize",
+      "star": 6
+    },
+    {
+      "text": "vue-events",
+      "url": "https://github.com/cklmercer/vue-events",
+      "star": 124
+    },
+    {
+      "text": "vue-event-handler",
+      "url": "https://github.com/sandeepk01/vue-event-handler",
+      "star": 9
+    },
+    {
+      "text": "vue-event-manager",
+      "url": "https://github.com/pagekit/vue-event-manager",
+      "star": 21
+    },
+    {
+      "text": "vue-geb",
+      "url": "https://github.com/vouill/vue-geb",
+      "star": 34
+    },
+    {
+      "text": "vue-bus",
+      "url": "https://github.com/fffixed/vue-bus",
+      "star": 9
+    },
+    {
+      "text": "vue-localstorage",
+      "url": "https://github.com/pinguinjkeke/vue-local-storage",
+      "star": 192
+    },
+    {
+      "text": "vue-ls",
+      "url": "https://github.com/RobinCK/vue-ls",
+      "star": 108
+    },
+    {
+      "text": "vue-pouch",
+      "url": "https://github.com/qurateinc/vue-pouch",
+      "star": 93
+    },
+    {
+      "text": "vue-idb",
+      "url": "https://github.com/ddgll/vue-idb",
+      "star": 18
+    },
+    {
+      "text": "vuejs-storage",
+      "url": "https://github.com/maple3142/vuejs-storage",
+      "star": 22
+    },
+    {
+      "text": "vue-browserstore",
+      "url": "https://github.com/gvost/vue-browserstore",
+      "star": 0
+    },
+    {
+      "text": "VueStorage",
+      "url": "https://github.com/SeregPie/VueStorage",
+      "star": 1
+    },
+    {
+      "text": "vuex",
+      "url": "https://github.com/vuejs/vuex",
+      "star": 11051
+    },
+    {
+      "text": "vue-sync",
+      "url": "https://github.com/buhrmi/vue-sync",
+      "star": 31
+    },
+    {
+      "text": "vuelm",
+      "url": "https://github.com/keuller/vuelm",
+      "star": 25
+    },
+    {
+      "text": "vue-duo",
+      "url": "https://github.com/haoxins/vue-duo",
+      "star": 17
+    },
+    {
+      "text": "vuez",
+      "url": "https://github.com/markselby9/vuez",
+      "star": 39
+    },
+    {
+      "text": "vuet",
+      "url": "https://github.com/medevicex/vuet",
+      "star": 294
+    },
+    {
+      "text": "vue-ya-stash",
+      "url": "https://github.com/qgp9/vue-ya-stash",
+      "star": 16
+    },
+    {
+      "text": "vue-assign-model",
+      "url": "https://github.com/midnightSuyama/vue-assign-model",
+      "star": 2
+    },
+    {
+      "text": "vue-stash",
+      "url": "https://github.com/cklmercer/vue-stash",
+      "star": 259
+    },
+    {
+      "text": "vue-mc",
+      "url": "https://github.com/FiguredLimited/vue-mc",
+      "star": 164
+    },
+    {
+      "text": "revue",
+      "url": "https://github.com/revue/revue",
+      "star": 530
+    },
+    {
+      "text": "vuedeux",
+      "url": "https://github.com/Vuedeux/vuedeux",
+      "star": 60
+    },
+    {
+      "text": "redux-store-mixin",
+      "url": "https://github.com/kolesoffac/redux-store-mixin",
+      "star": 0
+    },
+    {
+      "text": "movue",
+      "url": "https://github.com/nighca/movue",
+      "star": 12
+    },
+    {
+      "text": "vue-kindergarten",
+      "url": "https://github.com/JiriChara/vue-kindergarten",
+      "star": 143
+    },
+    {
+      "text": "vue-authenticate",
+      "url": "https://github.com/dgrubelic/vue-authenticate",
+      "star": 420
+    },
+    {
+      "text": "vuex-persistedstate",
+      "url": "https://github.com/robinvdvleuten/vuex-persistedstate",
+      "star": 804
+    },
+    {
+      "text": "vuex-plugin-jsdata",
+      "url": "https://github.com/AlexandreBonaventure/vuex-jsdata-plugin",
+      "star": 15
+    },
+    {
+      "text": "vuex-local",
+      "url": "https://github.com/ktsn/vuex-local",
+      "star": 38
+    },
+    {
+      "text": "vuex-action",
+      "url": "https://github.com/varHarrie/vuex-action",
+      "star": 17
+    },
+    {
+      "text": "vuex-rest-api",
+      "url": "https://github.com/christianmalek/vuex-rest-api",
+      "star": 107
+    },
+    {
+      "text": "vuex-cache",
+      "url": "https://github.com/superwf/vuex-cache",
+      "star": 107
+    },
+    {
+      "text": "vuex-persist",
+      "url": "https://github.com/championswimmer/vuex-persist",
+      "star": 62
+    },
+    {
+      "text": "vuex-local-state",
+      "url": "https://github.com/biluochun/vuex-localState",
+      "star": 8
+    },
+    {
+      "text": "vuex-cli-scaffold",
+      "url": "https://github.com/ndabAP/vuex-cli-scaffold",
+      "star": 7
+    },
+    {
+      "text": "vuex-action-reload",
+      "url": "https://github.com/chlab/vuex-action-reload",
+      "star": 1
+    },
+    {
+      "text": "vuejs-storage",
+      "url": "https://github.com/maple3142/vuejs-storage",
+      "star": 22
+    },
+    {
+      "text": "vuex-orm",
+      "url": "https://github.com/revolver-app/vuex-orm",
+      "star": 101
+    },
+    {
+      "text": "object-to-vuex-store",
+      "url": "https://github.com/Raiondesu/object-to-vuex-store",
+      "star": 1
+    },
+    {
+      "text": "vuex-basement",
+      "url": "https://github.com/RashadSaleh/vuex-basement",
+      "star": 26
+    },
+    {
+      "text": "vuex-shared-mutations",
+      "url": "https://github.com/xanf/vuex-shared-mutations",
+      "star": 135
+    },
+    {
+      "text": "vuency",
+      "url": "https://github.com/alidcastano/vuency",
+      "star": 39
+    },
+    {
+      "text": "vue-types",
+      "url": "https://github.com/dwightjack/vue-types",
+      "star": 57
+    },
+    {
+      "text": "vue-factory",
+      "url": "https://github.com/ye-will/vue-factory",
+      "star": 14
+    },
+    {
+      "text": "eslint-plugin-vue",
+      "url": "https://github.com/vuejs/eslint-plugin-vue",
+      "star": 489
+    },
+    {
+      "text": "vue-decorators",
+      "url": "https://github.com/partyka95/vue-decorators",
+      "star": 20
+    },
+    {
+      "text": "vue-computed-helpers",
+      "url": "https://github.com/michalsnik/vue-computed-helpers",
+      "star": 137
+    },
+    {
+      "text": "vue-bem-cn",
+      "url": "https://github.com/c01nd01r/vue-bem-cn",
+      "star": 33
+    },
+    {
+      "text": "vue-css",
+      "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vue-css",
+      "star": 80
+    },
+    {
+      "text": "vue-script2",
+      "url": "https://github.com/taoeffect/vue-script2",
+      "star": 38
+    },
+    {
+      "text": "vue-loader",
+      "url": "https://github.com/vuejs/vue-loader",
+      "star": 2384
+    },
+    {
+      "text": "vueify",
+      "url": "https://github.com/vuejs/vueify",
+      "star": 977
+    },
+    {
+      "text": "vue-compiler",
+      "url": "https://github.com/paulpflug/vue-compiler",
+      "star": 8
+    },
+    {
+      "text": "vue-brunch",
+      "url": "https://github.com/nblackburn/vue-brunch",
+      "star": 64
+    },
+    {
+      "text": "poi",
+      "url": "https://github.com/egoist/poi",
+      "star": 1631
+    },
+    {
+      "text": "http-vue-loader",
+      "url": "https://github.com/FranckFreiburger/http-vue-loader",
+      "star": 178
+    },
+    {
+      "text": "vue-jsx-hot-loader",
+      "url": "https://github.com/skyrpex/vue-jsx-hot-loader",
+      "star": 16
+    },
+    {
+      "text": "vue-navigation",
+      "url": "https://github.com/zack24q/vue-navigation",
+      "star": 151
+    },
+    {
+      "text": "vue-acl",
+      "url": "https://github.com/leonardovilarinho/vue-acl",
+      "star": 131
+    },
+    {
+      "text": "vue-breadcrumbs",
+      "url": "https://github.com/samturrell/vue-breadcrumbs",
+      "star": 61
+    },
+    {
+      "text": "vue-2-breadcrumbs",
+      "url": "https://github.com/GitScrum/vue-2-breadcrumbs",
+      "star": 6
+    },
+    {
+      "text": "vs-crumbs",
+      "url": "https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs",
+      "star": 80
+    },
+    {
+      "text": "vue-nav",
+      "url": "https://github.com/nearspears/vue-nav",
+      "star": 6
+    },
+    {
+      "text": "vue-container",
+      "url": "https://github.com/dealloc/vuec",
+      "star": 39
+    },
+    {
+      "text": "vue-super",
+      "url": "https://github.com/rpkilby/vue-super",
+      "star": 14
+    },
+    {
+      "text": "@skyrpex/props-to-local",
+      "url": "https://github.com/skyrpex/props-to-local",
+      "star": 6
+    },
+    {
+      "text": "vue-inject",
+      "url": "https://github.com/jpex-js/vue-inject",
+      "star": 67
+    },
+    {
+      "text": "vue-deepset",
+      "url": "https://github.com/bhoriuchi/vue-deepset",
+      "star": 23
+    },
+    {
+      "text": "vue-gaspard",
+      "url": "https://github.com/lucaperret/vue-gaspard",
+      "star": 2
+    },
+    {
+      "text": "vue-configuration",
+      "url": "https://github.com/alex-oleshkevich/vue-config",
+      "star": 10
+    },
+    {
+      "text": "vue-worker",
+      "url": "https://github.com/israelss/vue-worker",
+      "star": 111
+    },
+    {
+      "text": "jsx-vue-functional",
+      "url": "https://github.com/nickmessing/babel-plugin-jsx-vue-functional",
+      "star": 39
+    },
+    {
+      "text": "jsx-event-modifiers",
+      "url": "https://github.com/nickmessing/babel-plugin-jsx-event-modifiers",
+      "star": 19
+    },
+    {
+      "text": "jsx-v-model",
+      "url": "https://github.com/nickmessing/babel-plugin-jsx-v-model",
+      "star": 37
+    },
+    {
+      "text": "vue-backbone",
+      "url": "https://github.com/mikeapr4/vue-backbone",
+      "star": 19
+    },
+    {
+      "text": "vue-socket.io",
+      "url": "https://github.com/MetinSeylan/Vue-Socket.io",
+      "star": 788
+    },
+    {
+      "text": "vue-websocket",
+      "url": "https://github.com/icebob/vue-websocket",
+      "star": 168
+    },
+    {
+      "text": "vue-echo",
+      "url": "https://github.com/happyDemon/vue-echo",
+      "star": 136
+    },
+    {
+      "text": "vue-socket-cluster",
+      "url": "https://github.com/nigeltiany/vue-socket-cluster",
+      "star": 3
+    },
+    {
+      "text": "vue-stripe-checkout",
+      "url": "https://github.com/jofftiquez/vue-stripe-checkout",
+      "star": 36
+    },
+    {
+      "text": "vue-disqus",
+      "url": "https://github.com/ktquez/vue-disqus",
+      "star": 60
+    },
+    {
+      "text": "vue-youtube-embed",
+      "url": "https://github.com/kaorun343/vue-youtube-embed",
+      "star": 138
+    },
+    {
+      "text": "vue-add-to-calendar",
+      "url": "https://github.com/nicolasbeauvais/vue-add-to-calendar",
+      "star": 40
+    },
+    {
+      "text": "Vue + Meteor",
+      "url": "https://github.com/Akryum/vue-meteor",
+      "star": 558
+    },
+    {
+      "text": "vue-apollo",
+      "url": "https://github.com/Akryum/vue-apollo",
+      "star": 1189
+    },
+    {
+      "text": "av-ts",
+      "url": "https://github.com/HerringtonDarkholme/av-ts",
+      "star": 157
+    },
+    {
+      "text": "Neutronium",
+      "url": "https://github.com/NeutroniumCore/Neutronium",
+      "star": 379
+    },
+    {
+      "text": "vue-typescript-jest",
+      "url": "https://github.com/locoslab/vue-typescript-jest",
+      "star": 12
+    },
+    {
+      "text": "vue-jest-utils",
+      "url": "https://github.com/locoslab/vue-jest-utils",
+      "star": 39
+    },
+    {
+      "text": "vue-custom-element",
+      "url": "https://github.com/karol-f/vue-custom-element",
+      "star": 488
+    },
+    {
+      "text": "vue-cordova",
+      "url": "https://github.com/kartsims/vue-cordova",
+      "star": 149
+    },
+    {
+      "text": "vue-wamp",
+      "url": "https://github.com/lajosbencz/vue-wamp",
+      "star": 23
+    },
+    {
+      "text": "express-vue",
+      "url": "https://github.com/danmademe/express-vue",
+      "star": 561
+    },
+    {
+      "text": "vue-grecaptcha",
+      "url": "https://github.com/drozdzynski/vue-grecaptcha",
+      "star": 13
+    },
+    {
+      "text": "vue-recaptcha",
+      "url": "https://github.com/DanSnow/vue-recaptcha",
+      "star": 118
+    },
+    {
+      "text": "require-vuejs",
+      "url": "https://github.com/edgardleal/require-vuejs",
+      "star": 53
+    },
+    {
+      "text": "facebook-login-vuejs",
+      "url": "https://github.com/iliran11/facebook-login-vue.git",
+      "star": 8
+    },
+    {
+      "text": "vuejs/vuefire",
+      "url": "https://github.com/vuejs/vuefire",
+      "star": 1105
+    },
+    {
+      "text": "vuefire",
+      "url": "https://github.com/nigeltiany/vuefire",
+      "star": 2
+    },
+    {
+      "text": "vue-runkit",
+      "url": "https://github.com/maple3142/vue-runkit",
+      "star": 3
+    },
+    {
+      "text": "vue-youtube",
+      "url": "https://github.com/anteriovieira/vue-youtube",
+      "star": 12
+    },
+    {
+      "text": "vue-introjs",
+      "url": "https://github.com/alex-oleshkevich/vue-introjs",
+      "star": 11
+    },
+    {
+      "text": "vue-loopback",
+      "url": "https://github.com/InCuca/vue-loopback",
+      "star": 10
+    },
+    {
+      "text": "vue-laroute",
+      "url": "https://github.com/samturrell/vue-laroute",
+      "star": 0
+    },
+    {
+      "text": "vue-ua",
+      "url": "https://github.com/ScreamZ/vue-analytics",
+      "star": 144
+    },
+    {
+      "text": "vue-analytics",
+      "url": "https://github.com/MatteoGabriele/vue-analytics",
+      "star": 324
+    },
+    {
+      "text": "vue-gtm",
+      "url": "https://github.com/mib200/vue-gtm",
+      "star": 19
+    },
+    {
+      "text": "vue-dev-server",
+      "url": "https://github.com/paulpflug/vue-dev-server",
+      "star": 18
+    },
+    {
+      "text": "vue-dummy",
+      "url": "https://github.com/paulcollett/vue-dummy",
+      "star": 9
+    },
+    {
+      "text": "Vue.js devtools",
+      "url": "https://github.com/vuejs/vue-devtools",
+      "star": 5533
+    },
+    {
+      "text": "DejaVue",
+      "url": "https://github.com/MiCottOn/DejaVue",
+      "star": 697
+    },
+    {
+      "text": "vue-clicky",
+      "url": "https://github.com/Herteby/vue-clicky",
+      "star": 68
+    },
+    {
+      "text": "vuejs-logger",
+      "url": "https://github.com/justinkames/vuejs-logger",
+      "star": 21
+    },
+    {
+      "text": "vue-bugsnag",
+      "url": "https://github.com/ankurk91/vue-bugsnag",
+      "star": 5
+    },
+    {
+      "text": "vue-markdown-loader",
+      "url": "https://github.com/QingWei-Li/vue-markdown-loader",
+      "star": 219
+    },
+    {
+      "text": "vue-play",
+      "url": "https://github.com/vue-play/vue-play",
+      "star": 768
+    },
+    {
+      "text": "vue-styleguide-generator",
+      "url": "https://github.com/shershen08/vue-styleguide-generator",
+      "star": 112
+    },
+    {
+      "text": "propdoc",
+      "url": "https://github.com/propellant/doctor",
+      "star": 131
+    },
+    {
+      "text": "vue-styleguidist",
+      "url": "https://github.com/vue-styleguidist/vue-styleguidist",
+      "star": 264
+    },
+    {
+      "text": "vue-elucidate",
+      "url": "https://github.com/mattrothenberg/vue-elucidate",
+      "star": 12
+    },
+    {
+      "text": "vue-md-loader",
+      "url": "https://github.com/wxsms/vue-md-loader",
+      "star": 19
+    },
+    {
+      "text": "@vuedoc/parser",
+      "url": "https://github.com/vuedoc/parser",
+      "star": 20
+    },
+    {
+      "text": "@vuedoc/md",
+      "url": "https://github.com/vuedoc/md",
+      "star": 56
+    },
+    {
+      "text": "avoriaz",
+      "url": "https://github.com/eddyerburgh/avoriaz",
+      "star": 656
+    },
+    {
+      "text": "vue-container",
+      "url": "https://github.com/dealloc/vuec",
+      "star": 39
+    },
+    {
+      "text": "vuenit",
+      "url": "https://github.com/jackmellis/vuenit",
+      "star": 33
+    },
+    {
+      "text": "vue-unit",
+      "url": "https://github.com/wrseward/vue-unit",
+      "star": 214
+    },
+    {
+      "text": "vue-a2b",
+      "url": "https://github.com/fromAtoB/vue-a2b",
+      "star": 13
+    },
+    {
+      "text": "vue-test-utils",
+      "url": "https://github.com/vuejs/vue-test-utils",
+      "star": 728
+    },
+    {
+      "text": "vuegister",
+      "url": "https://github.com/iatsiuk/vuegister",
+      "star": 11
+    },
+    {
+      "text": "vue-node",
+      "url": "https://github.com/knpwrs/vue-node",
+      "star": 55
+    },
+    {
+      "text": "language-vue@atom.io",
+      "url": "https://github.com/hedefalk/atom-vue",
+      "star": 107
+    },
+    {
+      "text": "language-vue-component@atom.io",
+      "url": "https://github.com/CYBAI/language-vue-component",
+      "star": 33
+    },
+    {
+      "text": "vue-autocomplete@atom.io",
+      "url": "https://github.com/ealves-pt/atom-vue-autocomplete",
+      "star": 6
+    },
+    {
+      "text": "vue-snippets@atom.io",
+      "url": "https://github.com/ealves-pt/atom-vue-snippets",
+      "star": 11
+    },
+    {
+      "text": "vue-autocompile@atom.io",
+      "url": "https://github.com/paulpflug/vue-autocompile",
+      "star": 5
+    },
+    {
+      "text": "lint-sass-vue@atom.io",
+      "url": "https://github.com/fsblemos/lint-sass-vue",
+      "star": 12
+    },
+    {
+      "text": "vuejs2-snippets@atom.io",
+      "url": "https://github.com/CorentinAndre/Vuejs-snippets",
+      "star": 7
+    },
+    {
+      "text": "Vue Syntax Highlight",
+      "url": "https://github.com/vuejs/vue-syntax-highlight",
+      "star": 801
+    },
+    {
+      "text": "VUEFormatter",
+      "url": "https://github.com/baixuexiyang/VUEFormatter",
+      "star": 12
+    },
+    {
+      "text": "vuejs-sublime-complete",
+      "url": "https://github.com/BrainBuzzer/vuejs-sublime-complete",
+      "star": 37
+    },
+    {
+      "text": "Vue Next Formatter",
+      "url": "https://github.com/luozhihua/sublime-vue-formatter",
+      "star": 4
+    },
+    {
+      "text": "Vim Vue",
+      "url": "https://github.com/posva/vim-vue",
+      "star": 459
+    },
+    {
+      "text": "Vetur",
+      "url": "https://github.com/octref/vetur",
+      "star": 1300
+    },
+    {
+      "text": "VuePack",
+      "url": "https://github.com/madskristensen/VuePack",
+      "star": 53
+    },
+    {
+      "text": "Brackets Vue",
+      "url": "https://github.com/pandao/brackets-vue",
+      "star": 27
+    },
+    {
+      "text": "Vue.js Plugin",
+      "url": "https://github.com/postalservice14/vuejs-plugin",
+      "star": 140
+    },
+    {
+      "text": "Vue.js support for WebStorm",
+      "url": "https://github.com/JetBrains/intellij-plugins/tree/master/vuejs",
+      "star": 887
+    },
+    {
+      "text": "Vue Mode",
+      "url": "https://github.com/CodeFalling/vue-mode",
+      "star": 104
+    },
+    {
+      "text": "Kate Syntax Files",
+      "url": "https://github.com/mtorromeo/kate-syntax-files",
+      "star": 27
+    },
+    {
+      "text": "vue-cli",
+      "url": "https://github.com/vuejs/vue-cli",
+      "star": 7673
+    },
+    {
+      "text": "Vue-Django",
+      "url": "https://github.com/NdagiStanley/vue-django",
+      "star": 69
+    },
+    {
+      "text": "python-vuejs",
+      "url": "https://github.com/cstrap/python-vuejs",
+      "star": 20
+    },
+    {
+      "text": "generator-vue-plugin",
+      "url": "https://github.com/jeneser/generator-vue-plugin",
+      "star": 13
+    },
+    {
+      "text": "vue-seed",
+      "url": "https://github.com/dulin666/vue-seed",
+      "star": 15
+    },
+    {
+      "text": "nuxt-seed",
+      "url": "https://github.com/dulin666/nuxt-seed",
+      "star": 3
+    },
+    {
+      "text": "rails_vue_melt",
+      "url": "https://github.com/midnightSuyama/rails_vue_melt",
+      "star": 2
+    },
+    {
+      "text": "vue-starter",
+      "url": "https://github.com/rohitkrai03/vue-starter",
+      "star": 31
+    },
+    {
+      "text": "vue-standalone-component",
+      "url": "https://github.com/InCuca/vue-standalone-component",
+      "star": 36
+    },
+    {
+      "text": "vuejs-wordpress-theme-starter",
+      "url": "https://github.com/EvanAgee/vuejs-wordpress-theme-starter",
+      "star": 103
+    },
+    {
+      "text": "Cordovue",
+      "url": "https://github.com/TheMushrr00m/cordovue",
+      "star": 46
+    },
+    {
+      "text": "Cookiecutter-Django-Vue",
+      "url": "https://github.com/vchaptsev/cookiecutter-django-vue",
+      "star": 21
+    },
+    {
+      "text": "Vue Plugin Boilerplate",
+      "url": "https://github.com/kazupon/vue-plugin-boilerplate",
+      "star": 109
+    },
+    {
+      "text": "Bourgeon",
+      "url": "https://github.com/rayfranco/bourgeon",
+      "star": 60
+    },
+    {
+      "text": "VuePack",
+      "url": "https://github.com/egoist/vuepack",
+      "star": 1991
+    },
+    {
+      "text": "Vue Settler",
+      "url": "https://github.com/weavingbird/vue-settler",
+      "star": 17
+    },
+    {
+      "text": "vue-build",
+      "url": "https://github.com/brianvoe/vue-build",
+      "star": 36
+    },
+    {
+      "text": "Vue Element Starter",
+      "url": "https://github.com/Metnew/vue-element-starter",
+      "star": 142
+    },
+    {
+      "text": "vue-multiple-pages",
+      "url": "https://github.com/Plortinus/vue-multiple-pages",
+      "star": 358
+    },
+    {
+      "text": "vue-typescript-boilerplate",
+      "url": "https://github.com/twcapps/vue-typescript-boilerplate",
+      "star": 23
+    },
+    {
+      "text": "vue-tachyons-template",
+      "url": "https://github.com/colorful-tones/vue-tachyons-template",
+      "star": 7
+    },
+    {
+      "text": "Vuets",
+      "url": "https://github.com/AkiraLaine/Vuets",
+      "star": 15
+    },
+    {
+      "text": "MMF-FE/vue-typescript",
+      "url": "https://github.com/MMF-FE/vue-typescript",
+      "star": 38
+    },
+    {
+      "text": "Friendly Vue Starter",
+      "url": "https://github.com/mcongy/friendly-vue-starter",
+      "star": 25
+    },
+    {
+      "text": "vue-webpack-typescript",
+      "url": "https://github.com/ducksoupdev/vue-webpack-typescript",
+      "star": 349
+    },
+    {
+      "text": "vue-ts-amd",
+      "url": "https://github.com/Micene09/vue-ts-amd",
+      "star": 7
+    },
+    {
+      "text": "vue-2-boilerplate",
+      "url": "https://github.com/petervmeijgaard/vue-2-boilerplate",
+      "star": 518
+    },
+    {
+      "text": "layout",
+      "url": "https://github.com/ktquez/layout",
+      "star": 3
+    },
+    {
+      "text": "layout-simple",
+      "url": "https://github.com/ktquez/layout-simple",
+      "star": 5
+    },
+    {
+      "text": "SPA Starter Kit",
+      "url": "https://github.com/codecasts/spa-starter-kit",
+      "star": 768
+    },
+    {
+      "text": "SSR Boilerplate",
+      "url": "https://github.com/fenivana/vue-ssr-boilerplate",
+      "star": 82
+    },
+    {
+      "text": "neutrino-preset-vue-static",
+      "url": "https://github.com/shyiko/neutrino-preset-vue-static",
+      "star": 13
+    },
+    {
+      "text": "Vueniverse",
+      "url": "https://github.com/rlindskog/vueniverse",
+      "star": 180
+    },
+    {
+      "text": "Vuetober",
+      "url": "https://github.com/scottbedard/oc-vuetober-theme",
+      "star": 145
+    },
+    {
+      "text": "Toucan",
+      "url": "https://github.com/mrellipse/toucan",
+      "star": 62
+    },
+    {
+      "text": "vue-server-demo",
+      "url": "https://github.com/fritx/vue-server-demo",
+      "star": 2
+    },
+    {
+      "text": "Electron Vue",
+      "url": "https://github.com/SimulatedGREG/electron-vue",
+      "star": 3547
+    },
+    {
+      "text": "VuePack",
+      "url": "https://github.com/egoist/vuepack",
+      "star": 1991
+    },
+    {
+      "text": "vue-flexible-link",
+      "url": "https://github.com/saintplay/vue-flexible-link",
+      "star": 6
+    },
+    {
+      "text": "vue-generator",
+      "url": "https://github.com/hjeti/vue-generator",
+      "star": 53
+    },
+    {
+      "text": "vue-component-generator",
+      "url": "https://github.com/lakb248/vue-component-generator",
+      "star": 6
+    },
+    {
+      "text": "rapydml_cmp",
+      "url": "https://github.com/valq7711/rapydml_cmp",
+      "star": 2
+    },
+    {
+      "text": "blessed-vue",
+      "url": "https://github.com/lyonlai/blessed-vue",
+      "star": 223
+    }
+  ]
+}

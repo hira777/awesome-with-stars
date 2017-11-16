@@ -1,19 +1,25 @@
-const EventEmitter = require('events').EventEmitter;
+const path = require('path');
 const request = require('request');
-const Parser = require('./src/modules/Parser');
+const fs = require('fs-extra');
+const Parser = require('./modules/Parser');
 
-const emitter = new EventEmitter();
 const parser = new Parser();
+const url = process.env.URL;
+const category = process.env.CATEGORY;
 
-request('https://github.com/vuejs/awesome-vue', (error, response, html) => {
+request(url, (error, response, html) => {
   if (error) {
     console.error('error:', err);
   }
 
-  emitter.emit('requestAwesome', html);
-});
-
-emitter.on('requestAwesome', (html) => {
   parser.loadHtml(html);
-  parser.getItems();
+  parser.getItems().then((items) => {
+    const file = path.join(__dirname, `/docs/json/${category}/data.json`);
+
+    fs.outputJson(file, items, { spaces: 2 }, error => {
+      if (error) {
+        console.log(error);
+      }
+    });
+  });
 });

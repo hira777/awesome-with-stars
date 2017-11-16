@@ -32,6 +32,10 @@ class Parser {
         star
       };
     });
+
+    return {
+      items
+    };
   }
 
   /**
@@ -65,6 +69,7 @@ class Parser {
     let stars = [];
 
     for (let i = 0; i < selector.length; i += 1) {
+      console.log(`${i}/${selector.length}`);
       const url = this.$(selector[i]).attr('href');
       const star = await this.fetchStar({
         url,
@@ -81,19 +86,21 @@ class Parser {
    *
    * @param url リクエストするurl
    * @param selectorWithStars スター数を取得したいセレクタ
-   * @returns {Promise}
+   * @returns {Promise.<Number>}
    */
   fetchStar({ url, selectorWithStar }) {
     return new Promise(resolve => {
-      request(url, (error, response, html) => {
-        if (error) {
-          console.error('error:', error);
-        }
+      setTimeout(() => {
+        request(url, (error, response, html) => {
+          if (error) {
+            console.error('error:', error);
+          }
 
-        const $ = cheerio.load(html);
-        const star = $(selectorWithStar).eq(0).text().trim();
-        resolve(star);
-      });
+          const $ = cheerio.load(html);
+          const star = $(selectorWithStar).eq(0).text().replace(',', '').trim();
+          resolve(Number(star));
+        });
+      }, 500);
     });
   }
 
