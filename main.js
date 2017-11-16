@@ -4,8 +4,8 @@ const fs = require('fs-extra');
 const Parser = require('./modules/Parser');
 
 const parser = new Parser();
-const url = process.env.URL;
-const category = process.env.CATEGORY;
+const url = process.env.URL || 'https://github.com/vuejs/awesome-vue';
+const category = process.env.CATEGORY || 'vue';
 
 request(url, (error, response, html) => {
   if (error) {

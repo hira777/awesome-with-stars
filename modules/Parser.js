@@ -1,6 +1,6 @@
 const request = require('request');
 const cheerio = require('cheerio');
-const zipWith = require('lodash.zipwith');
+const _ = require('lodash');
 
 class Parser {
 
@@ -19,76 +19,102 @@ class Parser {
       const matches = url.match(re);
       return (matches && matches.length > 2);
     });
-    const texts = this.getTextFromSelectors({ selectors: itemsSelector });
+    const texts = this.getTextsFromSelectors({ selectors: itemsSelector });
     const urls = this.getUrlFromSelectors({ selectors: itemsSelector });
-    const stars = await this.fetchStarsFromRequestHtml({
-      selector: itemsSelector,
-      selectorWithStar: 'a[href*="stargazers"]'
+
+    const htmls = await this.fetchHtmls({ selectors: itemsSelector });
+    let descriptions = [];
+    let stars = [];
+    htmls.forEach((html) => {
+      descriptions.push(this.getTextFromSelector({
+        $: cheerio.load(html),
+        selector: '.repository-meta-content > [itemprop="about"]',
+      }));
+
+      stars.push(
+        Number(
+          this.getTextFromSelector({
+            $: cheerio.load(html),
+            selector: 'a[href*="stargazers"]',
+          }).replace(',', '')
+        )
+      );
     });
-    const items = zipWith(texts, urls, stars, (text, url, star) => {
+
+    const items = _.zipWith(texts, urls, descriptions, stars, (text, url, description, star) => {
       return {
         text,
         url,
+        description,
         star
       };
     });
 
     return {
-      items
+      items: _.sortBy(items, ['star']).reverse()
     };
   }
 
   /**
    * セレクタから取得したテキストを配列に格納して返す
    *
+   * @param $
    * @param selectors
-   * @returns {Array}
+   * @returns {Object}
    */
-  getTextFromSelectors({ selectors }) {
-    return selectors.map((i, selector) => this.$(selector).text()).get();
+  getTextFromSelector({ $ = this.$, selector }) {
+    return $(selector).eq(0).text().trim();
   }
 
   /**
-   * セレクタから取得したURLを配列に格納して返す
+   * 複数のセレクタから取得したテキストを配列に格納して返す
    *
+   * @param $
    * @param selectors
    * @returns {Array}
    */
-  getUrlFromSelectors({ selectors }) {
-    return selectors.map((i, selector) => this.$(selector).attr('href')).get();
+  getTextsFromSelectors({ $ = this.$, selectors }) {
+    return selectors.map((i, selector) => $(selector).text()).get();
   }
 
   /**
-   * hrefのURLのリクエスト先からスター数を取得し、配列で返す
+   * 複数のセレクタから取得したURLを配列に格納して返す
    *
-   * @param selector hrefからリンクを取得したいセレクタ
-   * @param selectorWithStars スター数を取得したいセレクタ
-   * @returns {Promise.<Array>}
+   * @param $
+   * @param selectors
+   * @returns {Array}
    */
-  async fetchStarsFromRequestHtml({ selector, selectorWithStar }) {
-    let stars = [];
+  getUrlFromSelectors({ $ = this.$, selectors }) {
+    return selectors.map((i, selector) => $(selector).attr('href')).get();
+  }
 
-    for (let i = 0; i < selector.length; i += 1) {
-      console.log(`${i}/${selector.length}`);
-      const url = this.$(selector[i]).attr('href');
-      const star = await this.fetchStar({
-        url,
-        selectorWithStar
-      });
-      stars.push(star);
+  /**
+   * 複数のリクエスト先からhtmlを取得し、配列に格納する
+   *
+   * @param selectors
+   * @return {Promise.<Array>}
+   */
+  async fetchHtmls({ selectors }) {
+    let htmls = [];
+
+    // eachだとawaitが利用できないため、for文で回す
+    for (let i = 0; i < selectors.length; i += 1) {
+      console.log(`${i}/${selectors.length}`);
+      const url = this.$(selectors[i]).attr('href');
+      const html = await this.fetchHtml({ url });
+      htmls.push(html);
     }
 
-    return stars;
+    return htmls;
   }
 
   /**
-   * urlをリクエストして、返ってきたHTMLからスター数を取得する
+   * リクエスト先からhtmlを取得する
    *
-   * @param url リクエストするurl
-   * @param selectorWithStars スター数を取得したいセレクタ
-   * @returns {Promise.<Number>}
+   * @param url
+   * @return {Promise.<String>}
    */
-  fetchStar({ url, selectorWithStar }) {
+  fetchHtml({ url }) {
     return new Promise(resolve => {
       setTimeout(() => {
         request(url, (error, response, html) => {
@@ -96,9 +122,7 @@ class Parser {
             console.error('error:', error);
           }
 
-          const $ = cheerio.load(html);
-          const star = $(selectorWithStar).eq(0).text().replace(',', '').trim();
-          resolve(Number(star));
+          resolve(html);
         });
       }, 500);
     });

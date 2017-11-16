@@ -12,6 +12,7 @@
         <div class="hero-body">
           <div class="container">
             <h1 class="title">Awesome with Stars</h1>
+            <h2 class="subtitle">Awesome links with Stars</h2>
           </div>
         </div>
       </section>
@@ -29,7 +30,12 @@
               </thead>
               <tbody>
               <tr v-for="item in items">
-                <td><a :href="item.url" class="has-text-info is-block" target="_blank">{{ item.text }}</a></td>
+                <td>
+                  <a :href="item.url" class="has-text-info is-block" target="_blank">
+                    <p class="is-size-5	has-text-weight-semibold is-marginless">{{ item.text }}</p>
+                    <p class="has-text-dark">{{ item.description }}</p>
+                  </a>
+                </td>
                 <td>{{ item.star }}</td>
               </tr>
               </tbody>
