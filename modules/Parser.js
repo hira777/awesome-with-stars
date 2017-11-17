@@ -1,4 +1,4 @@
-const request = require('request');
+const got = require('got');
 const cheerio = require('cheerio');
 const _ = require('lodash');
 
@@ -117,13 +117,15 @@ class Parser {
   fetchHtml({ url }) {
     return new Promise(resolve => {
       setTimeout(() => {
-        request(url, (error, response, html) => {
-          if (error) {
-            console.error('error:', error);
+        (async () => {
+          try {
+            const response = await got(url);
+            const html = response.body;
+            resolve(html);
+          } catch (error) {
+            console.log(error.response.body);
           }
-
-          resolve(html);
-        });
+        })();
       }, 500);
     });
   }
