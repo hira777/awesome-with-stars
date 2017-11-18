@@ -2,17 +2,13 @@ const got = require('got');
 const timeout = ms => new Promise(res => setTimeout(res, ms));
 
 class Request {
-
-  constructor() {
-  }
-
   /**
    * 複数のリクエスト先からResponseBodyを取得する
-   *
-   * @param urls
+   * @param urls {Array}
+   * @param sleep {Number}
    * @return {Promise.<Array>}
    */
-  async fetchUrls({ urls, sleep = 0 }) {
+  static async fetchUrls({ urls, sleep = 0 }) {
     let responseBodies = [];
 
     for (let i = 0; i < urls.length; i += 1) {
@@ -27,10 +23,10 @@ class Request {
 
   /**
    * リクエスト先からResponseBodyを取得する
-   * @param url
+   * @param url {String}
    * @return {Promise.<String>}
    */
-  async fetch({ url }) {
+  static async fetch({ url }) {
     try {
       const response = await got(url);
       return response.body;
