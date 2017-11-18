@@ -1,4 +1,5 @@
 const got = require('got');
+const timeout = ms => new Promise(res => setTimeout(res, ms));
 
 class Request {
 
@@ -6,16 +7,17 @@ class Request {
   }
 
   /**
-   * 複数のリクエスト先からResponseオブジェクトを取得する
+   * 複数のリクエスト先からResponseBodyを取得する
    *
-   * @param selectors
+   * @param urls
    * @return {Promise.<Array>}
    */
-  async fetchFromUrls({ urls }) {
+  async fetchUrls({ urls, sleep = 0 }) {
     let responseBodies = [];
 
     for (let i = 0; i < urls.length; i += 1) {
       console.log(`${i} / ${urls.length}`);
+      await timeout(sleep);
       const responseBody = await this.fetch({ url: urls[i] });
       responseBodies.push(responseBody);
     }
@@ -24,23 +26,17 @@ class Request {
   }
 
   /**
-   * リクエスト先からResponseオブジェクトを取得する
+   * リクエスト先からResponseBodyを取得する
    * @param url
-   * @return {Promise.<Object>}
+   * @return {Promise.<String>}
    */
-  fetch({ url }) {
-    return new Promise(resolve => {
-      setTimeout(() => {
-        (async () => {
-          try {
-            const response = await got(url);
-            resolve(response.body);
-          } catch (error) {
-            console.log(error.response.body);
-          }
-        })();
-      }, 500);
-    });
+  async fetch({ url }) {
+    try {
+      const response = await got(url);
+      return response.body;
+    } catch (error) {
+      console.log(error.response.body);
+    }
   }
 
 }

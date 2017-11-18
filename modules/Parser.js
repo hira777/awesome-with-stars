@@ -21,9 +21,12 @@ class Parser {
       return (matches && matches.length > 2);
     });
     const texts = this.getTextsFromSelectors({ selectors: itemsSelector });
-    const urls = this.getUrlFromSelectors({ selectors: itemsSelector });
+    let urls = this.getUrlFromSelectors({ selectors: itemsSelector });
 
-    const htmls = await this.request.fetchFromUrls({ urls });
+    const htmls = await this.request.fetchUrls({
+      urls,
+      sleep: 1000,
+    });
     let descriptions = [];
     let stars = [];
     htmls.forEach((html) => {
