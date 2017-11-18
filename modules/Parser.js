@@ -1,11 +1,12 @@
-const got = require('got');
 const cheerio = require('cheerio');
 const _ = require('lodash');
+const Request = require('./Request');
 
 class Parser {
 
   constructor() {
     this.$ = null;
+    this.request = new Request();
   }
 
   loadHtml(html) {
@@ -22,7 +23,7 @@ class Parser {
     const texts = this.getTextsFromSelectors({ selectors: itemsSelector });
     const urls = this.getUrlFromSelectors({ selectors: itemsSelector });
 
-    const htmls = await this.fetchHtmls({ selectors: itemsSelector });
+    const htmls = await this.request.fetchFromUrls({ urls });
     let descriptions = [];
     let stars = [];
     htmls.forEach((html) => {
@@ -86,48 +87,6 @@ class Parser {
    */
   getUrlFromSelectors({ $ = this.$, selectors }) {
     return selectors.map((i, selector) => $(selector).attr('href')).get();
-  }
-
-  /**
-   * 複数のリクエスト先からhtmlを取得し、配列に格納する
-   *
-   * @param selectors
-   * @return {Promise.<Array>}
-   */
-  async fetchHtmls({ selectors }) {
-    let htmls = [];
-
-    // eachだとawaitが利用できないため、for文で回す
-    for (let i = 0; i < selectors.length; i += 1) {
-      console.log(`${i}/${selectors.length}`);
-      const url = this.$(selectors[i]).attr('href');
-      const html = await this.fetchHtml({ url });
-      htmls.push(html);
-    }
-
-    return htmls;
-  }
-
-  /**
-   * リクエスト先からhtmlを取得する
-   *
-   * @param url
-   * @return {Promise.<String>}
-   */
-  fetchHtml({ url }) {
-    return new Promise(resolve => {
-      setTimeout(() => {
-        (async () => {
-          try {
-            const response = await got(url);
-            const html = response.body;
-            resolve(html);
-          } catch (error) {
-            console.log(error.response.body);
-          }
-        })();
-      }, 500);
-    });
   }
 
 }
